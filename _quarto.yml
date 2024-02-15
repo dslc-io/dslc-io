@@ -1,0 +1,46 @@
+project:
+  type: website
+  resources:
+    - CNAME
+
+website:
+  title: "dslc.io"
+  repo-url: https://github.com/dslc-io/dslc-io
+  repo-actions: [edit, issue]
+  # google-analytics: "G-QQ1ZV766J5"
+  # cookie-consent: true
+  navbar:
+    # background: "#222"
+    # logo: images/dslc-logo-150px.png
+    # logo-alt: "Data Science Learning Community"
+    # title: false
+    tools:
+      - icon: mastodon
+        href: https://fosstodon.org/@R4DSCommunity
+      - icon: linkedin
+        href: https://www.linkedin.com/company/r4ds
+      - icon: youtube
+        href: https://r4ds.io/youtube
+      - icon: github
+        href: https://github.com/dslc-io/dslc-io
+    left:
+      - href: question_answering.qmd
+      - href: bookclubs.qmd
+      - href: donate.qmd
+      - text: About Us
+        menu:
+        - href: about.qmd
+        - href: our_projects.qmd
+        - href: code_of_conduct.qmd
+        - href: privacy.qmd
+        - href: license.qmd
+        - href: governance.qmd
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: flatly
+    css: styles.css
+    toc: false
+    link-external-newwindow: true

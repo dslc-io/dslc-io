@@ -1,0 +1,6 @@
+# Data Science Learning Community
+
+A diverse, friendly, and inclusive community of learners building our skills in data science.
+
+<button type="button" class="btn btn-primary" onclick="window.location.href='https://r4ds.io/join';">Join us on Slack</button>
+
