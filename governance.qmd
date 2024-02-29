@@ -25,17 +25,17 @@ TLDR: The DSLC __Board of Directors__ (led by the __Executive Director__) leads 
 
 The Board of Directors of the Data Science Learning Community is:
 
-- [Jon Harmon](https://github.com/jonthegeek)
-- [Tan Ho](https://github.com/tanho63)
-- [Lydia Gibson](https://github.com/lgibson7)
+-   [Jon Harmon](https://github.com/jonthegeek)
+-   [Tan Ho](https://github.com/tanho63)
+-   [Lydia Gibson](https://github.com/lgibson7)
 
 Board of Directors members are collectively responsible for governance of the Data Science Learning Community. Governance activities include:
 
-- Ensuring the long term viability of the DSLC;
-- Deciding on organization-wide policies, procedures, and issues;
-- Dealing with issues related to the [code of conduct](code_of_conduct.html);
-- Approving DSLC expenses;
-- Any other decisions that impact the community as a whole.
+-   Ensuring the long term viability of the DSLC;
+-   Deciding on organization-wide policies, procedures, and issues;
+-   Dealing with issues related to the [code of conduct](code_of_conduct.html);
+-   Approving DSLC expenses;
+-   Any other decisions that impact the community as a whole.
 
 An invitation to join the Board of Directors can be extended to anyone who has shown interest and aptitude in furthering the goals of the Data Science Learning Community.
 Any existing Board of Directors member can contact the Executive Director to recommend that a member of the Community be invited to the Board of Directors. 
@@ -66,10 +66,10 @@ The Executive Director is bound by the [code of conduct](code_of_conduct.html).
 Administrators help to manage the DSLC Slack and/or GitHub repositories.
 Common administrator activities may include (in addition to those of a learner, mentor, and/or facilitator):
 
-- Approving and merging pull requests;
-- Deleting spam messages;
-- Removing learners who violate the [code of conduct](code_of_conduct.html);
-- Approving or denying Slack app requests.
+-   Approving and merging pull requests;
+-   Deleting spam messages;
+-   Removing learners who violate the [code of conduct](code_of_conduct.html);
+-   Approving or denying Slack app requests.
 
 Currently, all administrators are also members of the Board of Directors, and are added through the same process.
 
@@ -78,12 +78,12 @@ Currently, all administrators are also members of the Board of Directors, and ar
 Facilitators are learners who help organize and run DSLC book clubs.
 Common facilitator activities may include (in addition to those of a learner):
 
-- Introducing new book clubs (and presenting the first chapter);
-- Ensuring that someone is signed up to present each week;
-- Reminding club members about meeting times;
-- Informing administrators of any requested changes in the book club schedule;
-- Helping to maintain the book club slide repository;
-- Informing administrators of any issues that need to be escalated.
+-   Introducing new book clubs (and presenting the first chapter);
+-   Ensuring that someone is signed up to present each week;
+-   Reminding club members about meeting times;
+-   Informing administrators of any requested changes in the book club schedule;
+-   Helping to maintain the book club slide repository;
+-   Informing administrators of any issues that need to be escalated.
 
 Facilitators must have participated in at least one previous book club, and must have lead the discussion at least once.
 Facilitators are *not* expected to be experts in the book nor its subject; they are members of the club just like any other learner.
@@ -93,10 +93,10 @@ Facilitators are *not* expected to be experts in the book nor its subject; they 
 Mentors are learners who answer questions on the DSLC Slack.
 Common mentor activities may include (in addition to those of a learner):
 
-- Answering questions on the DSLC Slack;
-- Helping tag questions on the DSLC Slack with the DSLC emoji vocabulary;
-- Holding semi-official office hours to answer questions in a structured format;
-- Welcoming new users to the DSLC Slack.
+-   Answering questions on the DSLC Slack;
+-   Helping tag questions on the DSLC Slack with the DSLC emoji vocabulary;
+-   Holding semi-official office hours to answer questions in a structured format;
+-   Welcoming new users to the DSLC Slack.
 
 Anyone can become a mentor: there is no expectation of commitment to the project, 
 no required skillset, and no selection process. 
@@ -112,16 +112,16 @@ Learners are encouraged to participate in the life of the project and the commun
 Learner contributions help ensure that the project is satisfying users' needs. 
 Common learner activities include (but are not limited to):
 
-- Posting about TidyTuesday or other DSLC projects on social media;
-- Asking questions on the DSLC Slack;
-- Participating in DSLC book clubs;
-- Providing moral support (a "thank you" goes a long way).
+-   Posting about TidyTuesday or other DSLC projects on social media;
+-   Asking questions on the DSLC Slack;
+-   Participating in DSLC book clubs;
+-   Providing moral support (a "thank you" goes a long way).
 
 Learners who continue to engage with the project and its community will often find themselves becoming more and more involved. 
 Such learners may then go on to become mentors and/or facilitators, as described below.
 
 # Changelog
-2023-09-11: v1.0
-2023-09-29: v1.0.1 - Added Lydia Gibson to Core Team and clarified election and removal of Core Team members.
-2024-01-15: v1.1 - Renamed "Core Team" to "Board of Directors" and "Community Manager" to "Executive Director". Clarified wording of responsibilities.
-2024-02-28: v1.2 - Added "dslc-io" GitHub organization.
+-   2023-09-11: v1.0
+-   2023-09-29: v1.0.1 - Added Lydia Gibson to Core Team and clarified election and removal of Core Team members.
+-   2024-01-15: v1.1 - Renamed "Core Team" to "Board of Directors" and "Community Manager" to "Executive Director". Clarified wording of responsibilities.
+-   2024-02-28: v1.2 - Added "dslc-io" GitHub organization.
