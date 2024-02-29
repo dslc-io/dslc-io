@@ -1,7 +1,15 @@
 /*-- scss:defaults --*/
+
+// Colors
 $success: #2daaf4;
+
+// Font sizes
+$font-size-base:      1rem;
+$font-size-sm:        $font-size-base * .875;
+$font-size-lg:        $font-size-base * 1.5;
+$nav-link-font-size:  $font-size-lg;
 
 /*-- scss:rules --*/
 .navbar-logo {
-  max-height: 42px;
+  max-height: $nav-link-font-size * 2.25;
 }
