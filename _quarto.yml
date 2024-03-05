@@ -30,7 +30,6 @@ website:
       - text: About Us
         menu:
         - href: about.qmd
-        - href: our_projects.qmd
         - href: code_of_conduct.qmd
         - href: privacy.qmd
         - href: license.qmd
