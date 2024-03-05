@@ -11,56 +11,14 @@
     "href": "sponsor.html",
     "title": "Sponsorship",
     "section": "",
-    "text": "The Data Science Learning Community is a fiscally sponsored collective within the Open Collective Foundation.\nWould you like to support the Data Science Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
+    "text": "The Data Science Learning Community is a fiscally sponsored collective within the Open Collective Foundation.\nThe Open Collective Foundation is dissolving, and we are actively seeking a new fiscal sponsor. If you are interested in sponsoring the Data Science Learning Community, please contact us!\nWould you like to support the Data Science Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
   },
   {
-    "objectID": "governance.html",
-    "href": "governance.html",
-    "title": "Governance",
+    "objectID": "donate.html",
+    "href": "donate.html",
+    "title": "Donate",
     "section": "",
-    "text": "The Data Science Learning Community (“DSLC”) comprises the DSLC Slack community, and the repositories under the r4ds GitHub organization, the rfordatascience Github organization, and the dslc-io GitHub organization (and the packages, websites, and data pipelines that those repositories represent). It has a large community of learners, mentors, and facilitators, a team of administrators, a Board of Directors, and an Executive Director. This document details how the project is governed and what the various responsibilities are for each role in the community.\nTLDR: The DSLC Board of Directors (led by the Executive Director) leads the strategy, development, and maintenance of DSLC and actively welcomes engagement from the community of learners, mentors, and facilitators."
-  },
-  {
-    "objectID": "governance.html#board-of-directors",
-    "href": "governance.html#board-of-directors",
-    "title": "Governance",
-    "section": "Board of Directors",
-    "text": "Board of Directors\nThe Board of Directors of the Data Science Learning Community is:\n\nJon Harmon\nTan Ho\nLydia Gibson\n\nBoard of Directors members are collectively responsible for governance of the Data Science Learning Community. Governance activities include:\n\nEnsuring the long term viability of the DSLC;\nDeciding on organization-wide policies, procedures, and issues;\nDealing with issues related to the code of conduct;\nApproving DSLC expenses;\nAny other decisions that impact the community as a whole.\n\nAn invitation to join the Board of Directors can be extended to anyone who has shown interest and aptitude in furthering the goals of the Data Science Learning Community. Any existing Board of Directors member can contact the Executive Director to recommend that a member of the Community be invited to the Board of Directors. If the Executive Director approves of the nomination, they will put the member forward to the rest of the Board of Directors for a simple-majority vote.\nAll Board of Directors members are bound by the code of conduct.\nIf a member of the Board of Directors no longer wishes to be a member of the Board of Directors, they may retire from the Board of Directors by informing the Executive Director. If a member of the Board of Directors becomes inactive or no longer reflects the values of the Community, they may be removed from the Board of Directors by a two-thirds majority vote of the Board of Directors members."
-  },
-  {
-    "objectID": "governance.html#executive-director",
-    "href": "governance.html#executive-director",
-    "title": "Governance",
-    "section": "Executive Director",
-    "text": "Executive Director\nJon Harmon is the Executive Director.\nThe Executive Director is a single individual, elected by the Board of Directors. Once someone has been appointed Executive Director, they remain in that role until they choose to retire, or the Board of Directors casts a two-thirds majority vote to remove them.\nThe Executive Director is responsible for coordinating and facilitating communications within the Board of Directors and between the Board of Directors and third parties. Where required and with the consent of the Board of Directors, the Executive Director may act on behalf of the Board of Directors and the Data Science Learning Community.\nThe Executive Director has no additional authority over other members of the Board of Directors; the role is one of coordinator and facilitator. The Executive Director is also expected to ensure that all governance processes are adhered to, and has the deciding vote in the event an action does not receive consensus among the Board of Directors.\nThe Executive Director is bound by the code of conduct."
-  },
-  {
-    "objectID": "governance.html#administrators",
-    "href": "governance.html#administrators",
-    "title": "Governance",
-    "section": "Administrators",
-    "text": "Administrators\nAdministrators help to manage the DSLC Slack and/or GitHub repositories. Common administrator activities may include (in addition to those of a learner, mentor, and/or facilitator):\n\nApproving and merging pull requests;\nDeleting spam messages;\nRemoving learners who violate the code of conduct;\nApproving or denying Slack app requests.\n\nCurrently, all administrators are also members of the Board of Directors, and are added through the same process."
-  },
-  {
-    "objectID": "governance.html#facilitators",
-    "href": "governance.html#facilitators",
-    "title": "Governance",
-    "section": "Facilitators",
-    "text": "Facilitators\nFacilitators are learners who help organize and run DSLC book clubs. Common facilitator activities may include (in addition to those of a learner):\n\nIntroducing new book clubs (and presenting the first chapter);\nEnsuring that someone is signed up to present each week;\nReminding club members about meeting times;\nInforming administrators of any requested changes in the book club schedule;\nHelping to maintain the book club slide repository;\nInforming administrators of any issues that need to be escalated.\n\nFacilitators must have participated in at least one previous book club, and must have lead the discussion at least once. Facilitators are not expected to be experts in the book nor its subject; they are members of the club just like any other learner."
-  },
-  {
-    "objectID": "governance.html#mentors",
-    "href": "governance.html#mentors",
-    "title": "Governance",
-    "section": "Mentors",
-    "text": "Mentors\nMentors are learners who answer questions on the DSLC Slack. Common mentor activities may include (in addition to those of a learner):\n\nAnswering questions on the DSLC Slack;\nHelping tag questions on the DSLC Slack with the DSLC emoji vocabulary;\nHolding semi-official office hours to answer questions in a structured format;\nWelcoming new users to the DSLC Slack.\n\nAnyone can become a mentor: there is no expectation of commitment to the project, no required skillset, and no selection process. The only obligation is to follow the code of conduct. Mentors who continue to engage with the project are added to the private #mentors_chat channel for further tips and discussion, but they are under no obligation to continue to answer questions."
-  },
-  {
-    "objectID": "governance.html#learners",
-    "href": "governance.html#learners",
-    "title": "Governance",
-    "section": "Learners",
-    "text": "Learners\nPeople who use the DSLC Slack, participate in DSLC book clubs, use DSLC packages, and participate in TidyTuesday are the most important members of the community. Without these learners, this project would have no purpose.\nLearners are encouraged to participate in the life of the project and the community as much as possible. Learner contributions help ensure that the project is satisfying users’ needs. Common learner activities include (but are not limited to):\n\nPosting about TidyTuesday or other DSLC projects on social media;\nAsking questions on the DSLC Slack;\nParticipating in DSLC book clubs;\nProviding moral support (a “thank you” goes a long way).\n\nLearners who continue to engage with the project and its community will often find themselves becoming more and more involved. Such learners may then go on to become mentors and/or facilitators, as described below."
+    "text": "The Data Science Learning Community is a fiscally sponsored collective within the Open Collective Foundation.\nThe Open Collective Foundation is dissolving, and we are actively seeking a new fiscal sponsor. If you are interested in sponsoring the Data Science Learning Community, please contact us!\nWould you like to support the Data Science Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
   },
   {
     "objectID": "code_of_conduct.html",
@@ -224,39 +182,60 @@
     "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
   },
   {
-    "objectID": "donate.html",
-    "href": "donate.html",
-    "title": "Donate",
+    "objectID": "fundraiser_2024-03.html",
+    "href": "fundraiser_2024-03.html",
+    "title": "Help Secure the Future of this Community",
     "section": "",
-    "text": "The Data Science Learning Community is a fiscally sponsored collective within the Open Collective Foundation.\nThe Open Collective Foundation is dissolving, and we are actively seeking a new fiscal sponsor. If you are interested in sponsoring the Data Science Learning Community, please contact us!\nWould you like to support the Data Science Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
+    "text": "TL;DR:\n\nIf you have the means to support data science education, please donate before March 15!\n\nLast fall, this Community became a fiscally sponsored collective within the Open Collective Foundation (OCF), a 501(c)(3) charitable organization. Up until then, I paid for everything myself – our Zoom accounts, our domain names, experiments with other services like Zapier and IFTTT, even a workshop to learn tips and tricks for managing large, open-source projects. I wanted to see what this Community could become, so I spent what I had to spend.\nI’ve used the tax-deductible donations we’ve received as a member of OCF to help me pay for web services, and I am extremely grateful to those of you who have been able to donate already. However, the existing donations will not cover our infrastructure forever, and this Community needs more than web services to operate.\nI volunteer about 20 hours per week to keep this Community running, and I can’t afford to keep up that unpaid labor forever. I would love to offer additional book clubs, to streamline the process for starting a new club, and to improve the materials used by those clubs. I would love to learn more about who uses TidyTuesday datasets and what they do with the data, and to make it easier for them to work with that data. I would love to continue to provide a friendly place for people to help one another with their data science questions. And I would love to offer additional services to help data science learners become data science professionals. We are actively seeking grants and other funding to make all of these things possible. But things have, unexpectedly, grown more urgent.\nLast week, the Open Collective Foundation made the shocking announcement that they are dissolving. We have less than two weeks to collect donations for the foreseeable future. After March 15, we won’t be able to accept donations until we are able to find a new sponsoring charity. It will be much easier to find a stable sponsor if we demonstrate an ability to support ourselves.\nBy design, most of our active members are just starting out on their data science journeys, and cannot yet afford to pay; that’s a big part of why we exist. We need you to pay it forward. If you have the means to support data science education, please help us survive this transition by donating today.\nThank you,\nJon Harmon (jonthegeek)"
   },
   {
-    "objectID": "our_projects.html",
-    "href": "our_projects.html",
-    "title": "Our Projects",
+    "objectID": "governance.html",
+    "href": "governance.html",
+    "title": "Governance",
     "section": "",
-    "text": "We have a number of projects in the works to improve our offerings. Your donations can help us hire developers to work on these projects."
+    "text": "The Data Science Learning Community (“DSLC”) comprises the DSLC Slack community, and the repositories under the r4ds GitHub organization, the rfordatascience Github organization, and the dslc-io GitHub organization (and the packages, websites, and data pipelines that those repositories represent). It has a large community of learners, mentors, and facilitators, a team of administrators, a Board of Directors, and an Executive Director. This document details how the project is governed and what the various responsibilities are for each role in the community.\nTLDR: The DSLC Board of Directors (led by the Executive Director) leads the strategy, development, and maintenance of DSLC and actively welcomes engagement from the community of learners, mentors, and facilitators."
   },
   {
-    "objectID": "our_projects.html#mentoring-improvements",
-    "href": "our_projects.html#mentoring-improvements",
-    "title": "Our Projects",
-    "section": "Mentoring Improvements",
-    "text": "Mentoring Improvements\nWe provide free data-question-answering on our Slack team via volunteer mentors.\nWe would like to make it easier for our mentors to answer questions by providing a streamlined web interface, and by matching new questions with previously answered questions. This project will allow us to answer more questions faster."
+    "objectID": "governance.html#board-of-directors",
+    "href": "governance.html#board-of-directors",
+    "title": "Governance",
+    "section": "Board of Directors",
+    "text": "Board of Directors\nThe Board of Directors of the Data Science Learning Community is:\n\nJon Harmon\nTan Ho\nLydia Gibson\n\nBoard of Directors members are collectively responsible for governance of the Data Science Learning Community. Governance activities include:\n\nEnsuring the long term viability of the DSLC;\nDeciding on organization-wide policies, procedures, and issues;\nDealing with issues related to the code of conduct;\nApproving DSLC expenses;\nAny other decisions that impact the community as a whole.\n\nAn invitation to join the Board of Directors can be extended to anyone who has shown interest and aptitude in furthering the goals of the Data Science Learning Community. Any existing Board of Directors member can contact the Executive Director to recommend that a member of the Community be invited to the Board of Directors. If the Executive Director approves of the nomination, they will put the member forward to the rest of the Board of Directors for a simple-majority vote.\nAll Board of Directors members are bound by the code of conduct.\nIf a member of the Board of Directors no longer wishes to be a member of the Board of Directors, they may retire from the Board of Directors by informing the Executive Director. If a member of the Board of Directors becomes inactive or no longer reflects the values of the Community, they may be removed from the Board of Directors by a two-thirds majority vote of the Board of Directors members."
   },
   {
-    "objectID": "our_projects.html#more-open-book-clubs",
-    "href": "our_projects.html#more-open-book-clubs",
-    "title": "Our Projects",
-    "section": "More-open Book Clubs",
-    "text": "More-open Book Clubs\nWe host book clubs for a wide range of data-related books, including R for Data Science, Python for Data Analysis, and R Packages. To join a book club, you must join our Slack team, and follow the associated channel.\nWe would like to open up our clubs to users who are not on our Slack. This project will require software development to integrate our club management with additional login providers (such as Zoom, Google, GitHub, LinkedIn, and/or Mastodon), and to ensure that our meetings do not get spammed."
+    "objectID": "governance.html#executive-director",
+    "href": "governance.html#executive-director",
+    "title": "Governance",
+    "section": "Executive Director",
+    "text": "Executive Director\nJon Harmon is the Executive Director.\nThe Executive Director is a single individual, elected by the Board of Directors. Once someone has been appointed Executive Director, they remain in that role until they choose to retire, or the Board of Directors casts a two-thirds majority vote to remove them.\nThe Executive Director is responsible for coordinating and facilitating communications within the Board of Directors and between the Board of Directors and third parties. Where required and with the consent of the Board of Directors, the Executive Director may act on behalf of the Board of Directors and the Data Science Learning Community.\nThe Executive Director has no additional authority over other members of the Board of Directors; the role is one of coordinator and facilitator. The Executive Director is also expected to ensure that all governance processes are adhered to, and has the deciding vote in the event an action does not receive consensus among the Board of Directors.\nThe Executive Director is bound by the code of conduct."
   },
   {
-    "objectID": "our_projects.html#tidytuesday-dataset-search",
-    "href": "our_projects.html#tidytuesday-dataset-search",
-    "title": "Our Projects",
-    "section": "TidyTuesday Dataset Search",
-    "text": "TidyTuesday Dataset Search\nWe host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download.\nWe would like to make it easier to search those datasets. To do so, we will refactor the TidyTuesday GitHub repository, extend the {ttmeta} package, and build a Shiny search interface."
+    "objectID": "governance.html#administrators",
+    "href": "governance.html#administrators",
+    "title": "Governance",
+    "section": "Administrators",
+    "text": "Administrators\nAdministrators help to manage the DSLC Slack and/or GitHub repositories. Common administrator activities may include (in addition to those of a learner, mentor, and/or facilitator):\n\nApproving and merging pull requests;\nDeleting spam messages;\nRemoving learners who violate the code of conduct;\nApproving or denying Slack app requests.\n\nCurrently, all administrators are also members of the Board of Directors, and are added through the same process."
+  },
+  {
+    "objectID": "governance.html#facilitators",
+    "href": "governance.html#facilitators",
+    "title": "Governance",
+    "section": "Facilitators",
+    "text": "Facilitators\nFacilitators are learners who help organize and run DSLC book clubs. Common facilitator activities may include (in addition to those of a learner):\n\nIntroducing new book clubs (and presenting the first chapter);\nEnsuring that someone is signed up to present each week;\nReminding club members about meeting times;\nInforming administrators of any requested changes in the book club schedule;\nHelping to maintain the book club slide repository;\nInforming administrators of any issues that need to be escalated.\n\nFacilitators must have participated in at least one previous book club, and must have lead the discussion at least once. Facilitators are not expected to be experts in the book nor its subject; they are members of the club just like any other learner."
+  },
+  {
+    "objectID": "governance.html#mentors",
+    "href": "governance.html#mentors",
+    "title": "Governance",
+    "section": "Mentors",
+    "text": "Mentors\nMentors are learners who answer questions on the DSLC Slack. Common mentor activities may include (in addition to those of a learner):\n\nAnswering questions on the DSLC Slack;\nHelping tag questions on the DSLC Slack with the DSLC emoji vocabulary;\nHolding semi-official office hours to answer questions in a structured format;\nWelcoming new users to the DSLC Slack.\n\nAnyone can become a mentor: there is no expectation of commitment to the project, no required skillset, and no selection process. The only obligation is to follow the code of conduct. Mentors who continue to engage with the project are added to the private #mentors_chat channel for further tips and discussion, but they are under no obligation to continue to answer questions."
+  },
+  {
+    "objectID": "governance.html#learners",
+    "href": "governance.html#learners",
+    "title": "Governance",
+    "section": "Learners",
+    "text": "Learners\nPeople who use the DSLC Slack, participate in DSLC book clubs, use DSLC packages, and participate in TidyTuesday are the most important members of the community. Without these learners, this project would have no purpose.\nLearners are encouraged to participate in the life of the project and the community as much as possible. Learner contributions help ensure that the project is satisfying users’ needs. Common learner activities include (but are not limited to):\n\nPosting about TidyTuesday or other DSLC projects on social media;\nAsking questions on the DSLC Slack;\nParticipating in DSLC book clubs;\nProviding moral support (a “thank you” goes a long way).\n\nLearners who continue to engage with the project and its community will often find themselves becoming more and more involved. Such learners may then go on to become mentors and/or facilitators, as described below."
   },
   {
     "objectID": "bookclubs.html",
