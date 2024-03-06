@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
-  },
-  {
-    "objectID": "sponsor.html",
-    "href": "sponsor.html",
-    "title": "Sponsorship",
-    "section": "",
-    "text": "TL;DR:\n\nIf you have the means to support data science education, please donate before March 15!\n\nLast fall, this Community became a fiscally sponsored collective within the Open Collective Foundation (OCF), a 501(c)(3) charitable organization. Up until then, I paid for everything myself – our Zoom accounts, our domain names, experiments with other services like Zapier and IFTTT, even a workshop to learn tips and tricks for managing large, open-source projects. I wanted to see what this Community could become, so I spent what I had to spend.\nI’ve used the tax-deductible donations we’ve received as a member of OCF to help me pay for web services, and I am extremely grateful to those of you who have been able to donate already. However, the existing donations will not cover our infrastructure forever, and this Community needs more than web services to operate.\nI volunteer about 20 hours per week to keep this Community running, and I can’t afford to keep up that unpaid labor forever. I would love to offer additional book clubs, to streamline the process for starting a new club, and to improve the materials used by those clubs. I would love to learn more about who uses TidyTuesday datasets and what they do with the data, and to make it easier for them to work with that data. I would love to continue to provide a friendly place for people to help one another with their data science questions. And I would love to offer additional services to help data science learners become data science professionals. We are actively seeking grants and other funding to make all of these things possible. But things have, unexpectedly, grown more urgent.\nLast week, the Open Collective Foundation made the shocking announcement that they are dissolving. We have less than two weeks to collect donations for the foreseeable future. After March 15, we won’t be able to accept donations until we are able to find a new sponsoring charity. It will be much easier to find a stable sponsor if we demonstrate an ability to support ourselves.\nBy design, most of our active members are just starting out on their data science journeys, and cannot yet afford to pay; that’s a big part of why we exist. We need you to pay it forward. If you have the means to support data science education, please help us survive this transition by donating today.\nThank you,\nJon Harmon (jonthegeek)"
-  },
-  {
-    "objectID": "donate.html",
-    "href": "donate.html",
-    "title": "Donate",
-    "section": "",
-    "text": "TL;DR:\n\nIf you have the means to support data science education, please donate before March 15!\n\nLast fall, this Community became a fiscally sponsored collective within the Open Collective Foundation (OCF), a 501(c)(3) charitable organization. Up until then, I paid for everything myself – our Zoom accounts, our domain names, experiments with other services like Zapier and IFTTT, even a workshop to learn tips and tricks for managing large, open-source projects. I wanted to see what this Community could become, so I spent what I had to spend.\nI’ve used the tax-deductible donations we’ve received as a member of OCF to help me pay for web services, and I am extremely grateful to those of you who have been able to donate already. However, the existing donations will not cover our infrastructure forever, and this Community needs more than web services to operate.\nI volunteer about 20 hours per week to keep this Community running, and I can’t afford to keep up that unpaid labor forever. I would love to offer additional book clubs, to streamline the process for starting a new club, and to improve the materials used by those clubs. I would love to learn more about who uses TidyTuesday datasets and what they do with the data, and to make it easier for them to work with that data. I would love to continue to provide a friendly place for people to help one another with their data science questions. And I would love to offer additional services to help data science learners become data science professionals. We are actively seeking grants and other funding to make all of these things possible. But things have, unexpectedly, grown more urgent.\nLast week, the Open Collective Foundation made the shocking announcement that they are dissolving. We have less than two weeks to collect donations for the foreseeable future. After March 15, we won’t be able to accept donations until we are able to find a new sponsoring charity. It will be much easier to find a stable sponsor if we demonstrate an ability to support ourselves.\nBy design, most of our active members are just starting out on their data science journeys, and cannot yet afford to pay; that’s a big part of why we exist. We need you to pay it forward. If you have the means to support data science education, please help us survive this transition by donating today.\nThank you,\nJon Harmon (jonthegeek)"
-  },
-  {
     "objectID": "privacy.html",
     "href": "privacy.html",
     "title": "Privacy",
@@ -61,125 +40,6 @@
     "title": "Privacy",
     "section": "When did this privacy policy take effect?",
     "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Our Story",
-    "section": "",
-    "text": "The Data Science Learning Community is a diverse, friendly, and inclusive community of data science learners and practitioners.\nWe launched in August 2017 as the R4DS Online Learning Community, a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of over 17,000 learners.\nLearn more about us on April 18-19 at the ShinyConf2024 Shiny for Good Track."
-  },
-  {
-    "objectID": "about.html#footnotes",
-    "href": "about.html#footnotes",
-    "title": "Our Story",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
-  },
-  {
-    "objectID": "question_answering.html",
-    "href": "question_answering.html",
-    "title": "Get Help",
-    "section": "",
-    "text": "Our community members support one another by asking and answering programming questions in our Slack help channels. We keep those channels friendly and inclusive, and we work to ensure that we answer every question.\nJoin our Slack to ask and answer questions (if the join link says it is expired, please let us know)."
-  },
-  {
-    "objectID": "question_answering.html#available-help-channels",
-    "href": "question_answering.html#available-help-channels",
-    "title": "Get Help",
-    "section": "Available help channels:",
-    "text": "Available help channels:\n\n\n\nR help\n\nR (general questions)\nData import\nDataviz, plotting, etc\nExplore, wrangle\nModel\nProgramming, testing, etc\nRmarkdown, quarto, etc\nShiny\n\n\n\n\nOther topics\n\nJuliaLang (general questions)\nPython (general questions)\nSQL (general questions)\nDevops\nGithub, open source\nStatistics"
-  },
-  {
-    "objectID": "huhu.html",
-    "href": "huhu.html",
-    "title": "Help Us Help You",
-    "section": "",
-    "text": "Help us help you!\nMentors (and other learners) in the DSLC Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "The Data Science Learning Community develops tools and resources to foster the data science community to which we want to belong. Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own.\n\nJoin us on Slack\n\n\n\nWe organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to read a book together!\n\n\n\nOur community members also support each other by asking and answering programming questions in our Slack help channels.\n\n\n\nWe host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download.\n\n\n\nWe look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack"
-  },
-  {
-    "objectID": "index.html#learning-together",
-    "href": "index.html#learning-together",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to read a book together!"
-  },
-  {
-    "objectID": "index.html#helping-one-another",
-    "href": "index.html#helping-one-another",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "Our community members also support each other by asking and answering programming questions in our Slack help channels."
-  },
-  {
-    "objectID": "index.html#learning-out-loud",
-    "href": "index.html#learning-out-loud",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download."
-  },
-  {
-    "objectID": "index.html#making-connections",
-    "href": "index.html#making-connections",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack"
-  },
-  {
-    "objectID": "code_of_conduct.html",
-    "href": "code_of_conduct.html",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
-  },
-  {
-    "objectID": "code_of_conduct.html#our-pledge",
-    "href": "code_of_conduct.html#our-pledge",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
-  },
-  {
-    "objectID": "code_of_conduct.html#our-standards",
-    "href": "code_of_conduct.html#our-standards",
-    "title": "Code of Conduct",
-    "section": "Our Standards",
-    "text": "Our Standards\nExamples of behavior that contributes to creating a positive environment include:\n\nUsing welcoming and inclusive language\nBeing respectful of differing viewpoints and experiences\nGracefully accepting constructive criticism\nFocusing on what is best for the community\nShowing empathy towards other community members\n\nExamples of unacceptable behavior by participants include:\n\nThe use of sexualized language or imagery and unwelcome sexual attention or advances\nTrolling, insulting/derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or electronic address, without explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
-  },
-  {
-    "objectID": "code_of_conduct.html#our-responsibilities",
-    "href": "code_of_conduct.html#our-responsibilities",
-    "title": "Code of Conduct",
-    "section": "Our Responsibilities",
-    "text": "Our Responsibilities\nCommunity administrators are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.\nCommunity administrators have the right and responsibility to remove, edit, or reject comments, questions, answers, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful."
-  },
-  {
-    "objectID": "code_of_conduct.html#scope",
-    "href": "code_of_conduct.html#scope",
-    "title": "Code of Conduct",
-    "section": "Scope",
-    "text": "Scope\nThis Code of Conduct applies both within Data Science Learning Community spaces and in public spaces when an individual is representing the community. Examples of representing a community include using an official Data Science Learning Community e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the community may be further defined and clarified by community administrators."
-  },
-  {
-    "objectID": "code_of_conduct.html#enforcement",
-    "href": "code_of_conduct.html#enforcement",
-    "title": "Code of Conduct",
-    "section": "Enforcement",
-    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community administrators at rfordatasci@gmail.com. The community administrators will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The community administrators are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.\nCommunity administrators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the community’s leadership."
-  },
-  {
-    "objectID": "code_of_conduct.html#attribution",
-    "href": "code_of_conduct.html#attribution",
-    "title": "Code of Conduct",
-    "section": "Attribution",
-    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4"
   },
   {
     "objectID": "governance.html",
@@ -231,10 +91,150 @@
     "text": "Learners\nPeople who use the DSLC Slack, participate in DSLC book clubs, use DSLC packages, and participate in TidyTuesday are the most important members of the community. Without these learners, this project would have no purpose.\nLearners are encouraged to participate in the life of the project and the community as much as possible. Learner contributions help ensure that the project is satisfying users’ needs. Common learner activities include (but are not limited to):\n\nPosting about TidyTuesday or other DSLC projects on social media;\nAsking questions on the DSLC Slack;\nParticipating in DSLC book clubs;\nProviding moral support (a “thank you” goes a long way).\n\nLearners who continue to engage with the project and its community will often find themselves becoming more and more involved. Such learners may then go on to become mentors and/or facilitators, as described below."
   },
   {
+    "objectID": "code_of_conduct.html",
+    "href": "code_of_conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-pledge",
+    "href": "code_of_conduct.html#our-pledge",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-standards",
+    "href": "code_of_conduct.html#our-standards",
+    "title": "Code of Conduct",
+    "section": "Our Standards",
+    "text": "Our Standards\nExamples of behavior that contributes to creating a positive environment include:\n\nUsing welcoming and inclusive language\nBeing respectful of differing viewpoints and experiences\nGracefully accepting constructive criticism\nFocusing on what is best for the community\nShowing empathy towards other community members\n\nExamples of unacceptable behavior by participants include:\n\nThe use of sexualized language or imagery and unwelcome sexual attention or advances\nTrolling, insulting/derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or electronic address, without explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+  },
+  {
+    "objectID": "code_of_conduct.html#our-responsibilities",
+    "href": "code_of_conduct.html#our-responsibilities",
+    "title": "Code of Conduct",
+    "section": "Our Responsibilities",
+    "text": "Our Responsibilities\nCommunity administrators are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.\nCommunity administrators have the right and responsibility to remove, edit, or reject comments, questions, answers, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful."
+  },
+  {
+    "objectID": "code_of_conduct.html#scope",
+    "href": "code_of_conduct.html#scope",
+    "title": "Code of Conduct",
+    "section": "Scope",
+    "text": "Scope\nThis Code of Conduct applies both within Data Science Learning Community spaces and in public spaces when an individual is representing the community. Examples of representing a community include using an official Data Science Learning Community e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the community may be further defined and clarified by community administrators."
+  },
+  {
+    "objectID": "code_of_conduct.html#enforcement",
+    "href": "code_of_conduct.html#enforcement",
+    "title": "Code of Conduct",
+    "section": "Enforcement",
+    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community administrators at rfordatasci@gmail.com. The community administrators will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The community administrators are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.\nCommunity administrators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the community’s leadership."
+  },
+  {
+    "objectID": "code_of_conduct.html#attribution",
+    "href": "code_of_conduct.html#attribution",
+    "title": "Code of Conduct",
+    "section": "Attribution",
+    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4"
+  },
+  {
+    "objectID": "donate.html",
+    "href": "donate.html",
+    "title": "Donate",
+    "section": "",
+    "text": "TL;DR:\n\nIf you have the means to support data science education, please donate before March 15!\n\nLast September, this Community became a fiscally sponsored collective within the Open Collective Foundation (OCF), a 501(c)(3) charitable organization. Last week, the Open Collective Foundation made the shocking announcement that they are dissolving, which means we have less than two weeks to collect donations for the foreseeable future. After March 15, we won’t be able to accept donations until we are able to find a new sponsoring charity.\nBefore we joined OCF, I paid for everything myself – our Zoom accounts, our domain names, experiments with other services like Zapier and IFTTT, even a posit::conf(2023) workshop to learn tips and tricks for managing large, open-source projects. I wanted to see what this Community could become, so I made the necessary investments.\nI am extremely grateful to those of you who have been able to donate already. With the tax-deductible donations we’ve received as a member of OCF, I’ve managed to pay for web services, but the existing donations will not cover our infrastructure forever. Moreover, this Community needs more than web services to operate. I volunteer about 20 hours per week to keep this Community running, but that unpaid labor is not sustainable, especially for this Community to continue to grow and evolve.\nWe have plans to keep evolving:\n\nWe would love to offer additional book clubs, to streamline the process for starting a new club, and to improve the materials used by those clubs.\nWe would love to learn more about who uses TidyTuesday datasets and what they do with the data, and to make it easier for them to work with that data.\nWe would love to continue to provide a friendly place for people to help one another with their data science questions, and to expand to additional data-related topics and languages.\nAnd we would love to offer mentorship and career services to help data science learners become data science professionals.\n\nBy design, most of our active members are just starting out on their data science journeys. They cannot afford an expensive data science education, and they do not have the means to make a donation. That’s a big part of why we exist.\nAs Jeff Leek noted in his rstudio::conf(2022) keynote, “Mentorship is a debt you don’t pay off, you pay it forward.” For those of you who are further along in your data science careers, I ask that you help us continue to provide free data science education by donating today.\nThank you, Jon Harmon (jonthegeek)"
+  },
+  {
+    "objectID": "huhu.html",
+    "href": "huhu.html",
+    "title": "Help Us Help You",
+    "section": "",
+    "text": "Help us help you!\nMentors (and other learners) in the DSLC Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
+  },
+  {
+    "objectID": "question_answering.html",
+    "href": "question_answering.html",
+    "title": "Get Help",
+    "section": "",
+    "text": "Our community members support one another by asking and answering programming questions in our Slack help channels. We keep those channels friendly and inclusive, and we work to ensure that we answer every question.\nJoin our Slack to ask and answer questions (if the join link says it is expired, please let us know)."
+  },
+  {
+    "objectID": "question_answering.html#available-help-channels",
+    "href": "question_answering.html#available-help-channels",
+    "title": "Get Help",
+    "section": "Available help channels:",
+    "text": "Available help channels:\n\n\n\nR help\n\nR (general questions)\nData import\nDataviz, plotting, etc\nExplore, wrangle\nModel\nProgramming, testing, etc\nRmarkdown, quarto, etc\nShiny\n\n\n\n\nOther topics\n\nJuliaLang (general questions)\nPython (general questions)\nSQL (general questions)\nDevops\nGithub, open source\nStatistics"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
+  },
+  {
+    "objectID": "sponsor.html",
+    "href": "sponsor.html",
+    "title": "Sponsorship",
+    "section": "",
+    "text": "TL;DR:\n\nIf you have the means to support data science education, please donate before March 15!\n\nLast September, this Community became a fiscally sponsored collective within the Open Collective Foundation (OCF), a 501(c)(3) charitable organization. Last week, the Open Collective Foundation made the shocking announcement that they are dissolving, which means we have less than two weeks to collect donations for the foreseeable future. After March 15, we won’t be able to accept donations until we are able to find a new sponsoring charity.\nBefore we joined OCF, I paid for everything myself – our Zoom accounts, our domain names, experiments with other services like Zapier and IFTTT, even a posit::conf(2023) workshop to learn tips and tricks for managing large, open-source projects. I wanted to see what this Community could become, so I made the necessary investments.\nI am extremely grateful to those of you who have been able to donate already. With the tax-deductible donations we’ve received as a member of OCF, I’ve managed to pay for web services, but the existing donations will not cover our infrastructure forever. Moreover, this Community needs more than web services to operate. I volunteer about 20 hours per week to keep this Community running, but that unpaid labor is not sustainable, especially for this Community to continue to grow and evolve.\nWe have plans to keep evolving:\n\nWe would love to offer additional book clubs, to streamline the process for starting a new club, and to improve the materials used by those clubs.\nWe would love to learn more about who uses TidyTuesday datasets and what they do with the data, and to make it easier for them to work with that data.\nWe would love to continue to provide a friendly place for people to help one another with their data science questions, and to expand to additional data-related topics and languages.\nAnd we would love to offer mentorship and career services to help data science learners become data science professionals.\n\nBy design, most of our active members are just starting out on their data science journeys. They cannot afford an expensive data science education, and they do not have the means to make a donation. That’s a big part of why we exist.\nAs Jeff Leek noted in his rstudio::conf(2022) keynote, “Mentorship is a debt you don’t pay off, you pay it forward.” For those of you who are further along in your data science careers, I ask that you help us continue to provide free data science education by donating today.\nThank you, Jon Harmon (jonthegeek)"
+  },
+  {
     "objectID": "bookclubs.html",
     "href": "bookclubs.html",
     "title": "Book Clubs",
     "section": "",
     "text": "For more than four years, the Data Science Learning Community has organized weekly book clubs to help a diverse, friendly, and inclusive community of data science learners and practitioners achieve their learning goals. We started with a handful of nontraditional learners reading a single book together, and have grown to thousands of members, reading dozens of books in small, organized cohorts that meet every week. If there’s a free, online book (or website) covering a data-related topic that you would like to read, we invite you to join us to read it together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on our Slack."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "The Data Science Learning Community develops tools and resources to foster the data science community to which we want to belong. Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own.\n\nJoin us on Slack\n\n\n\nWe organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to read a book together!\n\n\n\nOur community members also support each other by asking and answering programming questions in our Slack help channels.\n\n\n\nWe host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download.\n\n\n\nWe look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack"
+  },
+  {
+    "objectID": "index.html#learning-together",
+    "href": "index.html#learning-together",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to read a book together!"
+  },
+  {
+    "objectID": "index.html#helping-one-another",
+    "href": "index.html#helping-one-another",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "Our community members also support each other by asking and answering programming questions in our Slack help channels."
+  },
+  {
+    "objectID": "index.html#learning-out-loud",
+    "href": "index.html#learning-out-loud",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download."
+  },
+  {
+    "objectID": "index.html#making-connections",
+    "href": "index.html#making-connections",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Our Story",
+    "section": "",
+    "text": "The Data Science Learning Community is a diverse, friendly, and inclusive community of data science learners and practitioners.\nWe launched in August 2017 as the R4DS Online Learning Community, a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of over 17,000 learners.\nLearn more about us on April 18-19 at the ShinyConf2024 Shiny for Good Track."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "Our Story",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
   }
 ]
