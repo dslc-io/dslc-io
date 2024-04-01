@@ -30,6 +30,8 @@ website:
       - text: About Us
         menu:
         - href: about.qmd
+        - href: faq.qmd
+        - href: fiscal_sponsorship.qmd
         - href: code_of_conduct.qmd
         - href: privacy.qmd
         - href: license.qmd
