@@ -19,9 +19,9 @@ However, [we now support much more than just that one book](#r4ds-club).
 Answer: No! 
 We seek to support *all* data science learners.
 
-We began with R, and our internal tools are written in R.
-However, we know that many data scientists use Python, Julia, and other languages in their day-to-day work.
-We want to help data science learners learn all of the skills they need, regardless of whether those skills involve R, Python, Julia, JavaScript, or no programming language at all.
+We began with R, our internal tools are written in R, and many of our users, book clubs and channels focus on R. 
+However, we know that data scientists use many languages in their day-to-day work, including Python, Julia, SQL, and others.
+We want to help data science learners learn all of the skills they need, regardless of whether those skills involve R, Python, Julia, SQL, JavaScript, or no programming language at all.
 
 ### Question: Aren't you just a book club for *R for Data Science?* {#r4ds-club}
 
