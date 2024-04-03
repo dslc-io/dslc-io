@@ -1,52 +1,66 @@
 [
   {
-    "objectID": "sponsor.html",
-    "href": "sponsor.html",
-    "title": "Sponsorship",
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy",
     "section": "",
-    "text": "We are unable to accept donations until we find a new fiscal host. Thank you for your interest in helping! If you have information about a fiscal host that you believe we should look into, please contact us."
+    "text": "This notice describes how the Data Science Learning Community (DSLC for short) collects and uses data about you."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "The Data Science Learning Community develops tools and resources to foster the data science community to which we want to belong. Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own.\n\nJoin us on Slack\n\n\n\nWe organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to read a book together!\n\n\n\nOur community members also support each other by asking and answering programming questions in our Slack help channels.\n\n\n\nWe host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download.\n\n\n\nWe look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack"
+    "objectID": "privacy.html#what-is-the-data-science-learning-community",
+    "href": "privacy.html#what-is-the-data-science-learning-community",
+    "title": "Privacy",
+    "section": "What is the Data Science Learning Community?",
+    "text": "What is the Data Science Learning Community?\nDSLC is a community managed by volunteers.\nThe DSLC Slack is hosted by Slack Technologies. See their privacy policy here."
   },
   {
-    "objectID": "index.html#learning-together",
-    "href": "index.html#learning-together",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to read a book together!"
+    "objectID": "privacy.html#how-does-dslc-collect-data-about-me",
+    "href": "privacy.html#how-does-dslc-collect-data-about-me",
+    "title": "Privacy",
+    "section": "How does DSLC collect data about me?",
+    "text": "How does DSLC collect data about me?\nDSLC collects data about you:\n\nwhen you browse dslc.io.\nwhen you create and use an account on our Slack team.\nwhen you post, send private messages, answer a thread, or otherwise participate in the DSLC Slack.\nwhen you browse our YouTube channel.\nwhen you participate in an Data Science Learning Community project, such as our mentorship pairing program."
   },
   {
-    "objectID": "index.html#helping-one-another",
-    "href": "index.html#helping-one-another",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "Our community members also support each other by asking and answering programming questions in our Slack help channels."
+    "objectID": "privacy.html#what-does-dslc-collect-about-me-and-why",
+    "href": "privacy.html#what-does-dslc-collect-about-me-and-why",
+    "title": "Privacy",
+    "section": "What does DSLC collect about me, and why?",
+    "text": "What does DSLC collect about me, and why?\nWhen you browse dslc.io, we may collect Google Analytics data. We use this data to better understand where our users are coming from.\nWhen you create and use an account on our Slack team, we collect an email address and other optional information.\n\nSlack requires this information for account creation.\nIf we need to talk to you about our Code of Conduct, we may contact you via this email address.\nWe do not intentionally share this email address with anyone, but Slack may make it available.\nYou can erase your personal information from your account at any time.\nSlack stores your account data as long as your account remains open.\n\nWhen you post, send private messages, answer a thread, or otherwise participate in the DSLC Slack, you generate content that may be accessible via Slack applications and the Slack API. DSLC uses this data to improve the experience, and may share posts outside of the DSLC Slack (for example, in a blog post or presentation about the mentoring process). All answers shared on the DSLC Slack are considered to be licensed under the Creative Commons CC0 license; people are free to copy/paste your code into their projects with no impact on the licensing of those projects. This data is retained according to Slack’s data retention policies.\nWhen you participate in an Data Science Learning Community project, we collect any data necessary for that project, such as a github repo url or demographic data for mentorship matching. We will only share any provided data as described in the terms of that particular project. Unless otherwise specified in the specific project, DSLC does not share data collected for such projects.\nDSLC does not sell or share your data with other companies or services. However, as described above, other services used by DSLC may collect your data, specifically Slack Technologies, Google Analytics, and YouTube."
   },
   {
-    "objectID": "index.html#learning-out-loud",
-    "href": "index.html#learning-out-loud",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download."
+    "objectID": "privacy.html#how-can-i-contact-dslc-about-privacy",
+    "href": "privacy.html#how-can-i-contact-dslc-about-privacy",
+    "title": "Privacy",
+    "section": "How can I contact DSLC about privacy?",
+    "text": "How can I contact DSLC about privacy?\nIf you have any questions about privacy, please contact the Community administrators at rfordatasci@gmail.com."
   },
   {
-    "objectID": "index.html#making-connections",
-    "href": "index.html#making-connections",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack"
+    "objectID": "privacy.html#when-did-this-privacy-policy-take-effect",
+    "href": "privacy.html#when-did-this-privacy-policy-take-effect",
+    "title": "Privacy",
+    "section": "When did this privacy policy take effect?",
+    "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
   },
   {
-    "objectID": "bookclubs.html",
-    "href": "bookclubs.html",
-    "title": "Book Clubs",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Our Story",
     "section": "",
-    "text": "For more than four years, the Data Science Learning Community has organized weekly book clubs to help a diverse, friendly, and inclusive community of data science learners and practitioners achieve their learning goals. We started with a handful of nontraditional learners reading a single book together, and have grown to thousands of members, reading dozens of books in small, organized cohorts that meet every week. If there’s a free, online book (or website) covering a data-related topic that you would like to read, we invite you to join us to read it together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on our Slack."
+    "text": "The Data Science Learning Community is a diverse, friendly, and inclusive community of data science learners and practitioners.\nWe launched in August 2017 as the R4DS Online Learning Community, a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of over 17,000 learners.\nLearn more about us on April 18-19 at the ShinyConf2024 Shiny for Good Track."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "Our Story",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
   },
   {
     "objectID": "code_of_conduct.html",
@@ -119,6 +133,13 @@
     "text": "Available help channels:\n\n\n\nR help\n\nR (general questions)\nData import\nDataviz, plotting, etc\nExplore, wrangle\nModel\nProgramming, testing, etc\nRmarkdown, quarto, etc\nShiny\n\n\n\n\nOther topics\n\nJuliaLang (general questions)\nPython (general questions)\nSQL (general questions)\nDevops\nGithub, open source\nStatistics"
   },
   {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "Question: Why did you change your name?\nAnswer: We wanted a name that caused less confusion.\nWe launched in 2017 as an online space for learners and mentors to gather to read R for Data Science (R4DS) by Hadley Wickham and Garrett Grolemund together. The name “R4DS Online Learning Community” made sense for that group.\nHowever, we now support much more than just that one book.\n\n\nQuestion: Are you changing your focus from R to Python?\nAnswer: No! We seek to support all data science learners.\nWe began with R, our internal tools are written in R, and many of our users, book clubs and channels focus on R. However, we know that data scientists use many languages in their day-to-day work, including Python, Julia, SQL, and others. We want to help data science learners learn all of the skills they need, regardless of whether those skills involve R, Python, Julia, SQL, JavaScript, or no programming language at all.\n\n\nQuestion: Aren’t you just a book club for R for Data Science?\nAnswer: No! We support over fifty books and at least four programming languages!\nWe began with R for Data Science because it is a great book for beginners. But we host book clubs for many other R book (such as Advanced R, Mastering Shiny, and Tidy Modeling with R), and even other programming languages (such as Python for Data Analysis and Fundamentals of Numerical Computation with Julia).\n\n\nQuestion: Are you part of (Posit, Google, etc)?\nAnswer: No! We are an independent organization.\nWe are a fiscally sponsored collective within the Open Collective Foundation. We are not affiliated with any other organization.\nWe have received donations from Posit, and Google mentions us in their Data Analytics Certificate courses, but we are not part of either organization."
+  },
+  {
     "objectID": "governance.html",
     "href": "governance.html",
     "title": "Governance",
@@ -175,66 +196,52 @@
     "text": "Help us help you!\nMentors (and other learners) in the DSLC Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
   },
   {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
+    "objectID": "fiscal_sponsorship.html",
+    "href": "fiscal_sponsorship.html",
+    "title": "Fiscal Sponsorship",
     "section": "",
-    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
+    "text": "The Data Science Learning Community is a fiscally sponsored project of the Open Collective Foundation (OCF), a 501(c)(3) nonprofit organization. Fiscal sponsorship allows us to collect tax-deductible donations without the overhead of a full nonprofit organization. However, the OCF is dissolving, and we are currently unable to accept donations.\nWe are actively seeking a new fiscal sponsor. If you have information about a fiscal host that you believe we should look into, please contact us."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Our Story",
+    "objectID": "bookclubs.html",
+    "href": "bookclubs.html",
+    "title": "Book Clubs",
     "section": "",
-    "text": "The Data Science Learning Community is a diverse, friendly, and inclusive community of data science learners and practitioners.\nWe launched in August 2017 as the R4DS Online Learning Community, a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of over 17,000 learners.\nLearn more about us on April 18-19 at the ShinyConf2024 Shiny for Good Track."
+    "text": "For more than four years, the Data Science Learning Community has organized weekly book clubs to help a diverse, friendly, and inclusive community of data science learners and practitioners achieve their learning goals. We started with a handful of nontraditional learners reading a single book together, and have grown to thousands of members, reading dozens of books in small, organized cohorts that meet every week. If there’s a free, online book (or website) covering a data-related topic that you would like to read, we invite you to join us to read it together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on our Slack."
   },
   {
-    "objectID": "about.html#footnotes",
-    "href": "about.html#footnotes",
-    "title": "Our Story",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
-  },
-  {
-    "objectID": "privacy.html",
-    "href": "privacy.html",
-    "title": "Privacy",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
     "section": "",
-    "text": "This notice describes how the Data Science Learning Community (DSLC for short) collects and uses data about you."
+    "text": "The Data Science Learning Community develops tools and resources to foster the data science community to which we want to belong. Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own.\n\nJoin us on Slack\n\n\n\nWe organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to read a book together!\n\n\n\nOur community members also support each other by asking and answering programming questions in our Slack help channels.\n\n\n\nWe host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download.\n\n\n\nWe look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack"
   },
   {
-    "objectID": "privacy.html#what-is-the-data-science-learning-community",
-    "href": "privacy.html#what-is-the-data-science-learning-community",
-    "title": "Privacy",
-    "section": "What is the Data Science Learning Community?",
-    "text": "What is the Data Science Learning Community?\nDSLC is a community managed by volunteers.\nThe DSLC Slack is hosted by Slack Technologies. See their privacy policy here."
+    "objectID": "index.html#learning-together",
+    "href": "index.html#learning-together",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to read a book together!"
   },
   {
-    "objectID": "privacy.html#how-does-dslc-collect-data-about-me",
-    "href": "privacy.html#how-does-dslc-collect-data-about-me",
-    "title": "Privacy",
-    "section": "How does DSLC collect data about me?",
-    "text": "How does DSLC collect data about me?\nDSLC collects data about you:\n\nwhen you browse dslc.io.\nwhen you create and use an account on our Slack team.\nwhen you post, send private messages, answer a thread, or otherwise participate in the DSLC Slack.\nwhen you browse our YouTube channel.\nwhen you participate in an Data Science Learning Community project, such as our mentorship pairing program."
+    "objectID": "index.html#helping-one-another",
+    "href": "index.html#helping-one-another",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "Our community members also support each other by asking and answering programming questions in our Slack help channels."
   },
   {
-    "objectID": "privacy.html#what-does-dslc-collect-about-me-and-why",
-    "href": "privacy.html#what-does-dslc-collect-about-me-and-why",
-    "title": "Privacy",
-    "section": "What does DSLC collect about me, and why?",
-    "text": "What does DSLC collect about me, and why?\nWhen you browse dslc.io, we may collect Google Analytics data. We use this data to better understand where our users are coming from.\nWhen you create and use an account on our Slack team, we collect an email address and other optional information.\n\nSlack requires this information for account creation.\nIf we need to talk to you about our Code of Conduct, we may contact you via this email address.\nWe do not intentionally share this email address with anyone, but Slack may make it available.\nYou can erase your personal information from your account at any time.\nSlack stores your account data as long as your account remains open.\n\nWhen you post, send private messages, answer a thread, or otherwise participate in the DSLC Slack, you generate content that may be accessible via Slack applications and the Slack API. DSLC uses this data to improve the experience, and may share posts outside of the DSLC Slack (for example, in a blog post or presentation about the mentoring process). All answers shared on the DSLC Slack are considered to be licensed under the Creative Commons CC0 license; people are free to copy/paste your code into their projects with no impact on the licensing of those projects. This data is retained according to Slack’s data retention policies.\nWhen you participate in an Data Science Learning Community project, we collect any data necessary for that project, such as a github repo url or demographic data for mentorship matching. We will only share any provided data as described in the terms of that particular project. Unless otherwise specified in the specific project, DSLC does not share data collected for such projects.\nDSLC does not sell or share your data with other companies or services. However, as described above, other services used by DSLC may collect your data, specifically Slack Technologies, Google Analytics, and YouTube."
+    "objectID": "index.html#learning-out-loud",
+    "href": "index.html#learning-out-loud",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download."
   },
   {
-    "objectID": "privacy.html#how-can-i-contact-dslc-about-privacy",
-    "href": "privacy.html#how-can-i-contact-dslc-about-privacy",
-    "title": "Privacy",
-    "section": "How can I contact DSLC about privacy?",
-    "text": "How can I contact DSLC about privacy?\nIf you have any questions about privacy, please contact the Community administrators at rfordatasci@gmail.com."
-  },
-  {
-    "objectID": "privacy.html#when-did-this-privacy-policy-take-effect",
-    "href": "privacy.html#when-did-this-privacy-policy-take-effect",
-    "title": "Privacy",
-    "section": "When did this privacy policy take effect?",
-    "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
+    "objectID": "index.html#making-connections",
+    "href": "index.html#making-connections",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack"
   }
 ]
