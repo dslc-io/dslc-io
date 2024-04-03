@@ -1,0 +1,63 @@
+---
+title: "Frequently Asked Questions"
+format:
+  html:
+    toc: true
+---
+
+### Question: Why did you change your name? {#name-change}
+
+Answer: We wanted a name that caused less confusion.
+
+We launched in 2017 as an online space for learners and mentors to gather to read [*R for Data Science*](https://r4ds.hadley.nz/) (R4DS) by Hadley Wickham and Garrett Grolemund together. 
+The name "R4DS Online Learning Community" made sense for that group. 
+
+However, [we now support much more than just that one book](#r4ds-club).
+
+### Question: Are you changing your focus from R to Python? {#focus}
+
+Answer: No! 
+We seek to support *all* data science learners.
+
+We began with R, our internal tools are written in R, and many of our users, book clubs and channels focus on R. 
+However, we know that data scientists use many languages in their day-to-day work, including Python, Julia, SQL, and others.
+We want to help data science learners learn all of the skills they need, regardless of whether those skills involve R, Python, Julia, SQL, JavaScript, or no programming language at all.
+
+### Question: Aren't you just a book club for *R for Data Science?* {#r4ds-club}
+
+Answer: No! 
+We support over fifty books and at least four programming languages!
+
+We began with [*R for Data Science*](https://r4ds.hadley.nz/) because it is a great book for beginners.
+But we host [book clubs](bookclubs.qmd) for many other R book (such as [*Advanced R*](https://r4ds.io/advr), [*Mastering Shiny*](https://r4ds.io/mshiny), and [*Tidy Modeling with R*](https://r4ds.io/tmwr)), and even other programming languages (such as [*Python for Data Analysis*](https://r4ds.io/py4da) and [*Fundamentals of Numerical Computation with Julia*](https://r4ds.io/fnc)).
+
+### Question: Are you part of (Posit, Google, etc)? {#independent}
+
+Answer: No! 
+We are an independent organization.
+
+We are a [fiscally sponsored collective within the Open Collective Foundation](fiscal_sponsorship.qmd).
+We are not affiliated with any other organization.
+
+We have received donations from [Posit](https://posit.co/), and Google mentions us in their [Data Analytics Certificate](https://grow.google/certificates/data-analytics) courses, but we are not part of either organization.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

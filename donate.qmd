@@ -1,5 +1,7 @@
 ---
 title: "Donate"
+aliases:
+  - sponsor.html
 ---
 
 *We are unable to accept donations until we find a new fiscal host.*

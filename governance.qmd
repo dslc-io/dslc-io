@@ -33,7 +33,7 @@ Board of Directors members are collectively responsible for governance of the Da
 
 -   Ensuring the long term viability of the DSLC;
 -   Deciding on organization-wide policies, procedures, and issues;
--   Dealing with issues related to the [code of conduct](code_of_conduct.html);
+-   Dealing with issues related to the [code of conduct](code_of_conduct.qmd);
 -   Approving DSLC expenses;
 -   Any other decisions that impact the community as a whole.
 
@@ -41,7 +41,7 @@ An invitation to join the Board of Directors can be extended to anyone who has s
 Any existing Board of Directors member can contact the Executive Director to recommend that a member of the Community be invited to the Board of Directors. 
 If the Executive Director approves of the nomination, they will put the member forward to the rest of the Board of Directors for a simple-majority vote.
 
-All Board of Directors members are bound by the [code of conduct](code_of_conduct.html).
+All Board of Directors members are bound by the [code of conduct](code_of_conduct.qmd).
 
 If a member of the Board of Directors no longer wishes to be a member of the Board of Directors, they may retire from the Board of Directors by informing the Executive Director.
 If a member of the Board of Directors becomes inactive or no longer reflects the values of the Community, they may be removed from the Board of Directors by a two-thirds majority vote of the Board of Directors members.
@@ -59,7 +59,7 @@ Where required and with the consent of the Board of Directors, the Executive Dir
 The Executive Director has no additional authority over other members of the Board of Directors; the role is one of coordinator and facilitator. 
 The Executive Director is also expected to ensure that all governance processes are adhered to, and has the deciding vote in the event an action does not receive consensus among the Board of Directors.
 
-The Executive Director is bound by the [code of conduct](code_of_conduct.html).
+The Executive Director is bound by the [code of conduct](code_of_conduct.qmd).
 
 ## Administrators
 
@@ -68,7 +68,7 @@ Common administrator activities may include (in addition to those of a learner, 
 
 -   Approving and merging pull requests;
 -   Deleting spam messages;
--   Removing learners who violate the [code of conduct](code_of_conduct.html);
+-   Removing learners who violate the [code of conduct](code_of_conduct.qmd);
 -   Approving or denying Slack app requests.
 
 Currently, all administrators are also members of the Board of Directors, and are added through the same process.
@@ -100,7 +100,7 @@ Common mentor activities may include (in addition to those of a learner):
 
 Anyone can become a mentor: there is no expectation of commitment to the project, 
 no required skillset, and no selection process. 
-The only obligation is to follow the [code of conduct](code_of_conduct.html).
+The only obligation is to follow the [code of conduct](code_of_conduct.qmd).
 Mentors who continue to engage with the project are added to the private #mentors_chat channel for further tips and discussion, but they are under no obligation to continue to answer questions. 
 
 ## Learners
