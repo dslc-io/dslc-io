@@ -6,7 +6,7 @@ format:
       - text: |
           <script type="text/javascript">
             var redirects = "redirects.tsv";
-            var current_url = window.location.href;
+            var current_path = window.location.pathname;
             var new_url = "";
             var xhr = new XMLHttpRequest();
             xhr.open("GET", redirects, false);
@@ -14,8 +14,8 @@ format:
             var lines = xhr.responseText.split("\n");
             for (var i = 0; i < lines.length; i++) {
               var parts = lines[i].split("\t");
-              if (parts[0] == current_url) {
-                window.location.href = new_url;
+              if (parts[0] == current_path) {
+                window.location.href = parts[1];
                 break;
               }
             }
