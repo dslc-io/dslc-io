@@ -1,0 +1,14 @@
+---
+title: "Page Not Found"
+---
+
+<script type="text/javascript">
+  // Redirect /join to r4ds.io/join
+  if (window.location.href == "https://dslc.io/join") {
+    window.location.replace("https://r4ds.io/join");
+  }
+</script>
+
+We cannot find that page.
+If you thought there would be a redirect here, try using "r4ds.io" in place of "dslc.io".
+We'll get the redirects set up eventually!
