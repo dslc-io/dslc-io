@@ -1,4 +1,4 @@
-var redirects = "redirects.tsv";
+var redirects = "/redirects.tsv";
 var current_path = window.location.pathname.replace(/\/$/, "");
 var query = window.location.search;
 var hash = window.location.hash;
