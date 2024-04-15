@@ -69,6 +69,8 @@ ul.task-list li input[type="checkbox"] {
 <script type="text/javascript">
   var redirects = "redirects.tsv";
   var current_path = window.location.pathname;
+  var query = window.location.search;
+  var hash = window.location.hash;
   var new_url = "";
   var xhr = new XMLHttpRequest();
   xhr.open("GET", redirects, false);
@@ -77,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
   for (var i = 0; i < lines.length; i++) {
     var parts = lines[i].split("\t");
     if (parts[0] == current_path) {
-      window.location.href = parts[1];
+      window.location.href = parts[1] + query + hash;
       break;
     }
   }
