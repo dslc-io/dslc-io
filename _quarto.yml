@@ -9,6 +9,9 @@ website:
   # repo-actions: [issue]
   # google-analytics: "G-QQ1ZV766J5"
   # cookie-consent: true
+  favicon: images/dslc_stacked_black_150x150.png
+  twitter-card: true
+  open-graph: true
   navbar:
     background: "#222"
     logo: images/dslc_edu_line_gray.png
@@ -16,7 +19,8 @@ website:
     title: false
     tools:
       - icon: mastodon
-        href: https://fosstodon.org/@R4DSCommunity
+        href: https://fosstodon.org/@DSLC
+        rel: me
       - icon: linkedin
         href: https://www.linkedin.com/company/r4ds
       - icon: youtube
