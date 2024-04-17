@@ -20,11 +20,10 @@ website:
     tools:
       - icon: mastodon
         href: https://fosstodon.org/@DSLC
-        rel: me
       - icon: linkedin
         href: https://www.linkedin.com/company/r4ds
       - icon: youtube
-        href: https://r4ds.io/youtube
+        href: https://dslc.io/youtube
       - icon: github
         href: https://github.com/dslc-io/dslc-io
     left:

@@ -14,7 +14,7 @@ This governance model is adapted from:
 and is licensed under CC-BY-SA-4.0
 -->
 
-The Data Science Learning Community ("DSLC") comprises the [DSLC Slack community](https://r4ds.io/join), and the repositories under the [r4ds GitHub organization](https://github.com/r4ds), the [rfordatascience Github organization](https://github.com/rfordatascience), and the [dslc-io GitHub organization](https://github.com/dslc-io) (and the packages, websites, and data pipelines that those repositories represent).
+The Data Science Learning Community ("DSLC") comprises the [DSLC Slack community](https://dslc.io/join), and the repositories under the [r4ds GitHub organization](https://github.com/r4ds), the [rfordatascience Github organization](https://github.com/rfordatascience), and the [dslc-io GitHub organization](https://github.com/dslc-io) (and the packages, websites, and data pipelines that those repositories represent).
 It has a large community of __learners__, __mentors__, and __facilitators__, a team of __administrators__, a __Board of Directors__, and an __Executive Director__. 
 This document details how the project is governed and what the various responsibilities 
 are for each role in the community.
