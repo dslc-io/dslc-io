@@ -15,7 +15,7 @@ The DSLC Slack is hosted by Slack Technologies. See [their privacy policy here](
 DSLC collects data about you:
 
 * when you browse [dslc.io](https://dslc.io/).
-* when you create and use an account on our [Slack team](http://r4ds.io/join).
+* when you create and use an account on our [Slack team](http://dslc.io/join).
 * when you post, send private messages, answer a thread, or otherwise participate in the DSLC Slack.
 * when you browse our [YouTube channel](https://www.youtube.com/R4DSOnlineLearningCommunity).
 * when you participate in an Data Science Learning Community project, such as our mentorship pairing program.
@@ -24,7 +24,7 @@ DSLC collects data about you:
 
 **When you browse [dslc.io](https://dslc.io/),** we may collect Google Analytics data. We use this data to better understand where our users are coming from.
 
-**When you create and use an account on our [Slack team](http://r4ds.io/join),** we collect an email address and other optional information. 
+**When you create and use an account on our [Slack team](http://dslc.io/join),** we collect an email address and other optional information. 
 
 * Slack requires this information for account creation. 
 * If we need to talk to you about our [Code of Conduct](conduct.html), we may contact you via this email address. 

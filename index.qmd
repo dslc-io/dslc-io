@@ -4,7 +4,7 @@ The **Data Science Learning Community** develops tools and resources to foster t
 Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. 
 Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own.
 
-<button type="button" class="btn btn-primary" onclick="window.location.href='https://r4ds.io/join';">Join us on Slack</button>
+<button type="button" class="btn btn-primary" onclick="window.location.href='https://dslc.io/join';">Join us on Slack</button>
 
 ## Learning together
 
@@ -25,5 +25,7 @@ We have been posting new datasets every week since April of 2018, and we now hav
 
 We look forward to learning more about you on our active, friendly Slack community!
 
-<button type="button" class="btn btn-primary" onclick="window.location.href='https://r4ds.io/join';">Join us on Slack</button>
+<button type="button" class="btn btn-primary" onclick="window.location.href='https://dslc.io/join';">Join us on Slack</button>
 <br>
+
+<a rel="me" href="https://fosstodon.org/@DSLC" style="visibility: hidden;">Mastodon</a>

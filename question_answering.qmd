@@ -5,7 +5,7 @@ title: "Get Help"
 Our community members support one another by asking and answering programming questions in our Slack help channels. 
 We keep those channels friendly and inclusive, and we work to ensure that we answer every question.
 
-[Join our Slack](https://r4ds.io/join) to ask and answer questions
+[Join our Slack](https://dslc.io/join) to ask and answer questions
 (if the join link says it is expired, please [let us know](mailto:rfordatasci@gmail.com)).
 
 ## Available help channels:

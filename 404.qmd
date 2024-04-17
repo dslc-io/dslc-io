@@ -12,4 +12,3 @@ resources:
 
 We cannot find that page.
 If you thought there would be a redirect here, try using "r4ds.io" in place of "dslc.io".
-We'll get the redirects set up eventually!

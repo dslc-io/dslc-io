@@ -6,6 +6,6 @@ For more than four years, the **Data Science Learning Community** has organized 
 We started with a handful of nontraditional learners reading a single book together, and have grown to thousands of members, reading dozens of books in small, organized cohorts that meet every week. 
 If there’s a free, online book (or website) covering a data-related topic that you would like to read, we invite you to join us to read it together!
 
--   [Calendar of current book clubs](https://r4ds.io/events)
--   [Sign up for a new club](https://r4ds.io/bookclubber)
-    -   Requires a [free membership on our Slack](https://r4ds.io/join).
+-   [Calendar of current book clubs](https://dslc.io/events)
+-   [Sign up for a new club](https://dslc.io/bookclubber)
+    -   Requires a [free membership on our Slack](https://dslc.io/join).
