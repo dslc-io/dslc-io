@@ -38,7 +38,7 @@ Representation of the community may be further defined and clarified by communit
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community administrators at [rfordatasci\@gmail.com](mailto:rfordatasci@gmail.com).
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community administrators at [conduct\@DSLC.io](mailto:conduct@DSLC.io).
 The community administrators will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances.
 The community administrators are obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
