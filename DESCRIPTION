@@ -5,7 +5,7 @@ Version: 0.0.1
 Authors@R: c(
     person("Jon", "Harmon", , "jonthegeek@gmail.com", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0003-4781-4346")),
-    person("Data Science Learning Community", , , "rfordatasci@gmail.com", role = "ctb")
+    person("Data Science Learning Community", , , "jon@dslc.io", role = "ctb")
   )
 Description: This is only here for GHA dependencies.
 URL: https://github.com/dslc-io/dslc-io

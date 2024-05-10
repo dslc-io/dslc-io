@@ -40,7 +40,7 @@ DSLC collects data about you:
 
 ## How can I contact DSLC about privacy?
 
-If you have any questions about privacy, please contact the Community administrators at rfordatasci@gmail.com.
+If you have any questions about privacy, please contact the Community administrators at [privacy\@DSLC.io](mailto:privacy@DSLC.io).
 
 ## When did this privacy policy take effect?
 
