@@ -10,7 +10,7 @@ Bootcamps and courses are often expensive, and it can be difficult to maintain t
 
 We organize book clubs to help our community members achieve their learning goals. 
 Our members read dozens of books in small, organized cohorts that meet every week. 
-Learn more about our [book clubs](bookclubs.html), and join us to read a book together!
+Learn more about our [book clubs](bookclubs.html), and join us to learn together!
 
 ## Helping one another
 
@@ -18,8 +18,7 @@ Our community members also support each other by asking and answering programmin
 
 ## Learning out loud
 
-We host a weekly social data project called [TidyTuesday](https://tidytues.day), where we share a new dataset each week and invite the data science community to explore it.
-We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download.
+We encourage learners to share their work with the Community. Participate in our [projects](project.html), such as our weekly [TidyTuesday](https://tidytues.day) social data project.
 
 ## Making connections
 
