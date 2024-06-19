@@ -1,0 +1,32 @@
+---
+title: "QR Codes"
+---
+
+Eventually this page will auto-populate with QR codes for each page on the DSLC website.
+
+```{r}
+#| echo: false
+generate_qr <- function(page) {
+  url <- glue::glue("https://DSLC.io/{page}")
+  qr_plot <- magick::image_graph(width = 500, height = 500, res = 96)
+  qrcode::qr_code(url, ecl = "H") |>
+    plot()
+  dev.off()
+  qr_plot
+}
+```
+```{r}
+#| echo: false
+pages_to_parse <- c(
+  "contact.html",
+  "projects.html"
+)
+```
+```{r}
+#| echo: false
+#| layout-ncol: 2
+#| fig-align: left
+#| fig-cap: !expr pages_to_parse
+generate_qr(pages_to_parse[[1]])
+generate_qr(pages_to_parse[[2]])
+```
