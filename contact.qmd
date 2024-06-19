@@ -1,0 +1,49 @@
+---
+title: "Contact Us"
+---
+
+:::: columns
+::: column
+## Social Media
+
+{{< fa brands linkedin >}} [DSLC-io](https://www.linkedin.com/company/dslc-io)
+
+{{< fa brands mastodon >}} [@DSLC](https://fosstodon.org/@DSLC)
+:::
+
+::: column
+## Email
+
+{{< fa envelope >}} [Business inquiries](mailto::jon@DSLC.io)
+
+{{< fa envelope >}} [Code of conduct violations](mailto::conduct@DSLC.io)
+
+{{< fa envelope >}} [Privacy concerns](mailto::privacy@DSLC.io)
+
+:::
+
+::: column
+## GitHub
+
+We are in the process of migrating our code repositories to a central source.
+Until then, we have three GitHub organizations:
+
+{{< fa brands github >}} [dslc-io](https://github.com/dslc-io) (eventually everything should be here)
+
+{{< fa brands github >}} [r4ds](https://github.com/r4ds) (most repositories)
+
+{{< fa brands github >}} [rfordatascience](https://github.com/rfordatascience) ([TidyTuesday](https://tidytues.day) only)
+:::
+
+::: column
+## DSLC Videos
+
+Videos of our events are hosted by [DSLC Videos](https://DSLC.video).
+
+{{< fa brands youtube >}} [@DSLCvids](https://DSLC.video)
+
+{{< fa brands linkedin >}} [DSLCvids](https://www.linkedin.com/company/dslcvids)
+
+{{< fa brands mastodon >}} [@DSLCvids](https://fosstodon.org/@DSLCvids)
+:::
+::::
