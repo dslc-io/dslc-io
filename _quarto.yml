@@ -22,10 +22,8 @@ website:
         href: https://fosstodon.org/@DSLC
       - icon: linkedin
         href: https://www.linkedin.com/company/dslc-io
-      - icon: youtube
-        href: https://dslc.io/youtube
       - icon: github
-        href: https://github.com/dslc-io/dslc-io
+        href: https://github.com/r4ds
     left:
       - href: bookclubs.qmd
       - href: question_answering.qmd
@@ -39,6 +37,7 @@ website:
         - href: privacy.qmd
         - href: license.qmd
         - href: governance.qmd
+        - href: contact.qmd
   page-footer:
     background: "#222"
     center:

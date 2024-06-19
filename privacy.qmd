@@ -17,7 +17,6 @@ DSLC collects data about you:
 * when you browse [dslc.io](https://dslc.io/).
 * when you create and use an account on our [Slack team](http://dslc.io/join).
 * when you post, send private messages, answer a thread, or otherwise participate in the DSLC Slack.
-* when you browse our [YouTube channel](https://www.youtube.com/R4DSOnlineLearningCommunity).
 * when you participate in an Data Science Learning Community project, such as our mentorship pairing program.
 
 ## What does DSLC collect about me, and why?
@@ -36,7 +35,7 @@ DSLC collects data about you:
 
 **When you participate in an Data Science Learning Community project,** we collect any data necessary for that project, such as a github repo url or demographic data for mentorship matching. We will only share any provided data as described in the terms of that particular project. Unless otherwise specified in the specific project, DSLC does not share data collected for such projects.
 
-**DSLC does not sell or share your data with other companies or services.** However, as described above, other services used by DSLC may collect your data, specifically Slack Technologies, Google Analytics, and YouTube.
+**DSLC does not sell or share your data with other companies or services.** However, as described above, other services used by DSLC may collect your data, specifically Slack Technologies and Google Analytics.
 
 ## How can I contact DSLC about privacy?
 
