@@ -1,0 +1,18 @@
+---
+title: "Projects"
+---
+
+We encourage learners to share their work with the Community. 
+
+## TidyTuesday
+
+[TidyTuesday](https://tidytues.day) is a weekly social data project.
+We post a new dataset every week at [tidytues.day](https://tidytues.day), and encourage learners to explore the data and share their insights on social media using the `#TidyTuesday` hashtag.
+Our over-arching goal for TidyTuesday is to make learning to work with data easier, by providing real-world datasets.
+
+## Project Club
+
+Project Club is a monthly online meetup, in which a Community member presents something they are working on or something they find interesting.
+[Videos of most Project Club meetings](https://www.youtube.com/playlist?list=PL3x6DOfs2NGgRuMQogeHX0UTrGY_Ri6Y_) are available on the [DSLC.video](https://DSLC.video) YouTube channel.
+Everyone is invited to participate!
+[Join our Slack](https://dslc.io/join), then navigate to the [#project-club](https://dslcio.slack.com/archives/C018EL49ZPS) channel for more information.
