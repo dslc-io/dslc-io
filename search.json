@@ -21,81 +21,25 @@
     "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
   },
   {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
+    "objectID": "qr_codes.html",
+    "href": "qr_codes.html",
+    "title": "QR Codes",
     "section": "",
-    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
+    "text": "Eventually this page will auto-populate with QR codes for each page on the DSLC website.\n\n\n\n\n\n\n\n\n\ncontact.html\n\n\n\n\n\n\n\nprojects.html"
   },
   {
-    "objectID": "question_answering.html",
-    "href": "question_answering.html",
-    "title": "Get Help",
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Support",
     "section": "",
-    "text": "Our community members support one another by asking and answering programming questions in our Slack help channels. We keep those channels friendly and inclusive, and we work to ensure that we answer every question.\nJoin our Slack to ask and answer questions (if the join link says it is expired, please let us know)."
-  },
-  {
-    "objectID": "question_answering.html#available-help-channels",
-    "href": "question_answering.html#available-help-channels",
-    "title": "Get Help",
-    "section": "Available help channels:",
-    "text": "Available help channels:\n\n\n\nR help\n\nR (general questions)\nData import\nDataviz, plotting, etc\nExplore, wrangle\nModel\nProgramming, testing, etc\nRmarkdown, quarto, etc\nShiny\n\n\n\n\nOther topics\n\nJuliaLang (general questions)\nPython (general questions)\nSQL (general questions)\nDevops\nGithub, open source\nStatistics"
+    "text": "The Data Science Learning Commmunity does not currently solicit donations. If you are interested in donating time or money, please contact us."
   },
   {
     "objectID": "faq.html",
     "href": "faq.html",
     "title": "Frequently Asked Questions",
     "section": "",
-    "text": "Question: Why did you change your name?\nAnswer: We wanted a name that caused less confusion.\nWe launched in 2017 as an online space for learners and mentors to gather to read R for Data Science (R4DS) by Hadley Wickham and Garrett Grolemund together. The name “R4DS Online Learning Community” made sense for that group.\nHowever, we now support much more than just that one book.\n\n\nQuestion: Are you changing your focus from R to Python?\nAnswer: No! We seek to support all data science learners.\nWe began with R, our internal tools are written in R, and many of our users, book clubs and channels focus on R. However, we know that data scientists use many languages in their day-to-day work, including Python, Julia, SQL, and others. We want to help data science learners learn all of the skills they need, regardless of whether those skills involve R, Python, Julia, SQL, JavaScript, or no programming language at all.\n\n\nQuestion: Aren’t you just a book club for R for Data Science?\nAnswer: No! We support over fifty books and at least four programming languages!\nWe began with R for Data Science because it is a great book for beginners. But we host book clubs for many other R book (such as Advanced R, Mastering Shiny, and Tidy Modeling with R), and even other programming languages (such as Python for Data Analysis and Fundamentals of Numerical Computation with Julia).\n\n\nQuestion: Are you part of (Posit, Google, etc)?\nAnswer: No! We are an independent organization.\nWe are a fiscally sponsored collective within the Open Collective Foundation. We are not affiliated with any other organization.\nWe have received donations from Posit, and Google mentions us in their Data Analytics Certificate courses, but we are not part of either organization."
-  },
-  {
-    "objectID": "donate.html",
-    "href": "donate.html",
-    "title": "Donate",
-    "section": "",
-    "text": "We are unable to accept donations until we find a new fiscal host. Thank you for your interest in helping! If you have information about a fiscal host that you believe we should look into, please contact us."
-  },
-  {
-    "objectID": "bookclubs.html",
-    "href": "bookclubs.html",
-    "title": "Book Clubs",
-    "section": "",
-    "text": "Since early 2020, the Data Science Learning Community has organized weekly study groups to help a diverse, friendly, and inclusive community of data science learners and practitioners achieve their learning goals. We started with a handful of nontraditional learners reading a single book together, and have grown to thousands of members, reading dozens of books in small, organized cohorts that meet every week. If there’s a free, online book (or website) covering a data-related topic that you would like to read, we invite you to join us to read it together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on our Slack."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "The Data Science Learning Community develops tools and resources to foster the data science community to which we want to belong. Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own.\n\nJoin us on Slack\n\n\n\nWe organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to learn together!\n\n\n\nOur community members also support each other by asking and answering programming questions in our Slack help channels.\n\n\n\nWe encourage learners to share their work with the Community. Participate in our projects, such as our weekly TidyTuesday social data project.\n\n\n\nWe look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack\n\n\nMastodon"
-  },
-  {
-    "objectID": "index.html#learning-together",
-    "href": "index.html#learning-together",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to learn together!"
-  },
-  {
-    "objectID": "index.html#helping-one-another",
-    "href": "index.html#helping-one-another",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "Our community members also support each other by asking and answering programming questions in our Slack help channels."
-  },
-  {
-    "objectID": "index.html#learning-out-loud",
-    "href": "index.html#learning-out-loud",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We encourage learners to share their work with the Community. Participate in our projects, such as our weekly TidyTuesday social data project."
-  },
-  {
-    "objectID": "index.html#making-connections",
-    "href": "index.html#making-connections",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack\n\n\nMastodon"
+    "text": "Question: Why did you change your name?\nAnswer: We wanted a name that caused less confusion.\nWe launched in 2017 as an online space for learners and mentors to gather to read R for Data Science (R4DS) by Hadley Wickham and Garrett Grolemund together. The name “R4DS Online Learning Community” made sense for that group.\nHowever, we now support much more than just that one book.\n\n\nQuestion: Are you changing your focus from R to Python?\nAnswer: No! We seek to support all data science learners.\nWe began with R, our internal tools are written in R, and many of our users, book clubs and channels focus on R. However, we know that data scientists use many languages in their day-to-day work, including Python, Julia, SQL, and others. We want to help data science learners learn all of the skills they need, regardless of whether those skills involve R, Python, Julia, SQL, JavaScript, or no programming language at all.\n\n\nQuestion: Aren’t you just a book club for R for Data Science?\nAnswer: No! We support over fifty books and at least four programming languages!\nWe began with R for Data Science because it is a great book for beginners. But we host book clubs for many other R book (such as Advanced R, Mastering Shiny, and Tidy Modeling with R), and even other programming languages (such as Python for Data Analysis and Fundamentals of Numerical Computation with Julia).\n\n\nQuestion: Are you part of (Posit, Google, etc)?\nAnswer: No! We are an independent organization.\nGoogle mentions us in their Data Analytics Certificate courses, and we received a donation from Posit in our former incarnation as the R4DS Online Learning Community. However, we are not affiliated with either organization."
   },
   {
     "objectID": "privacy.html",
@@ -138,6 +82,48 @@
     "title": "Privacy",
     "section": "When did this privacy policy take effect?",
     "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "The Data Science Learning Community develops tools and resources to foster the data science community to which we want to belong. Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own.\n\nJoin us on Slack\n\n\n\nWe organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to learn together!\n\n\n\nOur community members also support each other by asking and answering programming questions in our Slack help channels.\n\n\n\nWe encourage learners to share their work with the Community. Participate in our projects, such as our weekly TidyTuesday social data project.\n\n\n\nWe look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack\n\n\nMastodon"
+  },
+  {
+    "objectID": "index.html#learning-together",
+    "href": "index.html#learning-together",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to learn together!"
+  },
+  {
+    "objectID": "index.html#helping-one-another",
+    "href": "index.html#helping-one-another",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "Our community members also support each other by asking and answering programming questions in our Slack help channels."
+  },
+  {
+    "objectID": "index.html#learning-out-loud",
+    "href": "index.html#learning-out-loud",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We encourage learners to share their work with the Community. Participate in our projects, such as our weekly TidyTuesday social data project."
+  },
+  {
+    "objectID": "index.html#making-connections",
+    "href": "index.html#making-connections",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack\n\n\nMastodon"
+  },
+  {
+    "objectID": "bookclubs.html",
+    "href": "bookclubs.html",
+    "title": "Book Clubs",
+    "section": "",
+    "text": "Since early 2020, the Data Science Learning Community has organized weekly study groups to help a diverse, friendly, and inclusive community of data science learners and practitioners achieve their learning goals. We started with a handful of nontraditional learners reading a single book together, and have grown to thousands of members, reading dozens of books in small, organized cohorts that meet every week. If there’s a free, online book (or website) covering a data-related topic that you would like to read, we invite you to join us to read it together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on our Slack."
   },
   {
     "objectID": "contact.html",
@@ -245,18 +231,25 @@
     "text": "Learners\nPeople who use the DSLC Slack, participate in DSLC book clubs, use DSLC packages, and participate in TidyTuesday are the most important members of the community. Without these learners, this project would have no purpose.\nLearners are encouraged to participate in the life of the project and the community as much as possible. Learner contributions help ensure that the project is satisfying users’ needs. Common learner activities include (but are not limited to):\n\nPosting about TidyTuesday or other DSLC projects on social media;\nAsking questions on the DSLC Slack;\nParticipating in DSLC book clubs;\nProviding moral support (a “thank you” goes a long way).\n\nLearners who continue to engage with the project and its community will often find themselves becoming more and more involved. Such learners may then go on to become mentors and/or facilitators, as described below."
   },
   {
-    "objectID": "qr_codes.html",
-    "href": "qr_codes.html",
-    "title": "QR Codes",
+    "objectID": "question_answering.html",
+    "href": "question_answering.html",
+    "title": "Get Help",
     "section": "",
-    "text": "Eventually this page will auto-populate with QR codes for each page on the DSLC website.\n\n\n\n\n\n\n\n\n\ncontact.html\n\n\n\n\n\n\n\nprojects.html"
+    "text": "Our community members support one another by asking and answering programming questions in our Slack help channels. We keep those channels friendly and inclusive, and we work to ensure that we answer every question.\nJoin our Slack to ask and answer questions (if the join link says it is expired, please let us know)."
   },
   {
-    "objectID": "fiscal_sponsorship.html",
-    "href": "fiscal_sponsorship.html",
-    "title": "Fiscal Sponsorship",
+    "objectID": "question_answering.html#available-help-channels",
+    "href": "question_answering.html#available-help-channels",
+    "title": "Get Help",
+    "section": "Available help channels:",
+    "text": "Available help channels:\n\n\n\nR help\n\nR (general questions)\nData import\nDataviz, plotting, etc\nExplore, wrangle\nModel\nProgramming, testing, etc\nRmarkdown, quarto, etc\nShiny\n\n\n\n\nOther topics\n\nJuliaLang (general questions)\nPython (general questions)\nSQL (general questions)\nDevops\nGithub, open source\nStatistics"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
     "section": "",
-    "text": "The Data Science Learning Community is a fiscally sponsored project of the Open Collective Foundation (OCF), a 501(c)(3) nonprofit organization. Fiscal sponsorship allows us to collect tax-deductible donations without the overhead of a full nonprofit organization. However, the OCF is dissolving, and we are currently unable to accept donations.\nWe are actively seeking a new fiscal sponsor. If you have information about a fiscal host that you believe we should look into, please contact us."
+    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
   },
   {
     "objectID": "code_of_conduct.html",
