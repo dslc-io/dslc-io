@@ -36,10 +36,9 @@ But we host [book clubs](bookclubs.qmd) for many other R book (such as [*Advance
 Answer: No! 
 We are an independent organization.
 
-We are a [fiscally sponsored collective within the Open Collective Foundation](fiscal_sponsorship.qmd).
-We are not affiliated with any other organization.
-
-We have received donations from [Posit](https://posit.co/), and Google mentions us in their [Data Analytics Certificate](https://grow.google/certificates/data-analytics) courses, but we are not part of either organization.
+Google mentions us in their [Data Analytics Certificate](https://grow.google/certificates/data-analytics) courses,
+and we received a donation from [Posit](https://posit.co/) in our former incarnation as the R4DS Online Learning Community.
+However, we are not affiliated with either organization.
 
 <br>
 <br>
