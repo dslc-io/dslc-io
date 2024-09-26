@@ -1,0 +1,9 @@
+---
+title: "Support"
+aliases:
+  - donate.html
+  - fiscal_sponsorship.html
+---
+
+The Data Science Learning Commmunity does not currently solicit donations. 
+If you are interested in donating time or money, please [contact us](mailto:jon@DSLC.io).
