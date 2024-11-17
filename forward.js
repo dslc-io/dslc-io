@@ -1,4 +1,4 @@
-(async () => {
+(() => {
   try {
     // Ensure TSV_URL is defined
     if (typeof TSV_URL === 'undefined') {
@@ -12,19 +12,26 @@
     // Exit early if no target (stay on the page)
     if (!target) return;
 
-    // Fetch the TSV file
-    const response = await fetch(TSV_URL);
-    if (!response.ok) return;
+    // Synchronously fetch the TSV file
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", TSV_URL, false); // false = synchronous
+    xhr.send();
 
-    const tsvData = await response.text();
+    if (xhr.status !== 200) {
+      console.error(`Failed to fetch TSV file. HTTP status: ${xhr.status}`);
+      return;
+    }
+
+    const tsvData = xhr.responseText;
+
+    // Parse the TSV data
     const redirectMap = {};
-
     tsvData.split('\n').forEach(line => {
       const [key, url] = line.split('\t');
       if (key && url) redirectMap[key.trim()] = url.trim();
     });
 
-    // Redirect if target exists in the map
+    // Redirect if the target exists in the map
     if (redirectMap[target]) {
       window.location.href = redirectMap[target];
     }
