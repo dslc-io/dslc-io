@@ -1,0 +1,15 @@
+---
+title: "DSLC Videos"
+format:
+  html:
+    include-in-header:
+      - text: |
+          <script type="text/javascript">
+            const TSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz2OM6l9NYafJp4SISUs8W8Kql2MUumFKxpg_GLtoaybuqBxI1l9MegNceSAgPRmCOqEoNhGxp504g/pub?gid=638837948&single=true&output=tsv";
+          </script>
+          <script type="text/javascript" src="forward.js"></script>
+resources:
+  - "forward.js"
+---
+
+(text will come soon)
