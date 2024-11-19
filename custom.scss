@@ -13,3 +13,14 @@ $nav-link-font-size:  $font-size-lg;
 .navbar-logo {
   max-height: $nav-link-font-size * 2.25;
 }
+
+#playlist-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.book-group-column {
+  flex: 1 1 30%;
+  box-sizing: border-box;
+}

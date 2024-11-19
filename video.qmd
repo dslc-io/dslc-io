@@ -7,10 +7,16 @@ format:
           <script type="text/javascript">
             const TSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz2OM6l9NYafJp4SISUs8W8Kql2MUumFKxpg_GLtoaybuqBxI1l9MegNceSAgPRmCOqEoNhGxp504g/pub?gid=1409549687&single=true&output=tsv";
           </script>
+          <script type="text/javascript" src="tsvUtils.js"></script>
           <script type="text/javascript" src="forward.js"></script>
+          <script type="text/javascript" src="playlists.js"></script>
 resources:
+  - "tsvUtils.js"
   - "forward.js"
+  - "playlists.js"
 ---
 
-All of our book club meetings are available on YouTube.
-[Visit our YouTube channel](https://www.youtube.com/@dslcvids) to catch up or follow along!
+All of our book club meetings are available on YouTube. [Visit our YouTube channel](https://www.youtube.com/@dslcvids) to catch up or follow along!
+
+::: {#playlist-container}
+:::
