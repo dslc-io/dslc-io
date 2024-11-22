@@ -17,6 +17,15 @@
     // Redirect if the target exists in the map
     if (redirectMap[target]) {
       window.location.href = redirectMap[target];
+    } else {
+      urlParams.delete('target');
+      window.history.replaceState(
+        null,
+        '',
+        `${window.location.pathname}${
+          urlParams.toString() ? '?' + urlParams.toString() : ''
+        }#${target}`
+      );
     }
   } catch (error) {
     console.error("Error during redirection:", error);

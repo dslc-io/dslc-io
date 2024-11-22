@@ -2,6 +2,8 @@
 
 // Colors
 $success: #2daaf4;
+$link: #2daaf4;
+$info: #8a2be2;
 
 // Font sizes
 $font-size-base:      1rem;
@@ -23,4 +25,9 @@ $nav-link-font-size:  $font-size-lg;
 .book-group-column {
   flex: 1 1 30%;
   box-sizing: border-box;
+}
+
+.highlighted {
+  font-size: $font-size-lg;
+  color: $info;
 }

@@ -52,9 +52,9 @@ const parseTSVDataToGroups = (tsvData) => {
     cohort = parseInt(cohort, 10); // Convert cohort to an integer
     if (book_title && book_title !== "#N/A" && playlist_url && cohort && cohort_id) {
       if (!bookGroups[book_title]) {
-        bookGroups[book_title] = [];
+        bookGroups[book_title] = { cohorts: [], book_code };
       }
-      bookGroups[book_title].push({ cohort_id, playlist_url, cohort });
+      bookGroups[book_title].cohorts.push({ cohort_id, playlist_url, cohort });
     }
   });
   return bookGroups;
