@@ -24,7 +24,6 @@ async function handleRedirection(target, TSV_URL) {
     const redirectMap = parsedTSVData[TSV_URL];
     if (redirectMap[target]) {
       console.log("Redirecting to URL:", redirectMap[target]);
-      await new Promise(resolve => setTimeout(resolve, 1000)); // Pause for 1 second before redirecting
       window.location.href = redirectMap[target];
       return true;
     } else {
