@@ -20,4 +20,5 @@ async function handleRedirection(target, TSV_URL) {
   } catch (error) {
     console.error("Error during redirection:", error);
   }
+  return false; // Redirection failed or target not found
 }
