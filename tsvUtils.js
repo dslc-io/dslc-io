@@ -8,6 +8,7 @@ const isTSVUrlDefined = () => {
 
 const fetchTSVData = async (url) => {
   try {
+    console.log("Fetching TSV data from URL:", url);
     const response = await fetch(url);
     if (!response.ok) {
       console.error(`Failed to fetch TSV file. HTTP status: ${response.status}`);
@@ -24,6 +25,7 @@ const fetchedTSVData = {};
 
 const getOrFetchTSVData = async (url) => {
   if (fetchedTSVData[url]) {
+    console.log("Using cached TSV data for URL:", url);
     return fetchedTSVData[url];
   }
   const tsvData = await fetchTSVData(url);
@@ -34,6 +36,7 @@ const getOrFetchTSVData = async (url) => {
 };
 
 const parseTSVDataToMap = (tsvData) => {
+  console.log("Parsing TSV data");
   const redirectMap = {};
   tsvData.split('\n').forEach(line => {
     const [key, url] = line.split('\t').map(item => item.trim());
@@ -45,6 +48,7 @@ const parseTSVDataToMap = (tsvData) => {
 };
 
 const parseTSVDataToGroups = (tsvData) => {
+  console.log("Parsing TSV data to groups");
   const bookGroups = {};
   const lines = tsvData.split('\n').slice(1); // Skip the header row
   lines.forEach(line => {
