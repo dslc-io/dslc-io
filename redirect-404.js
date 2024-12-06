@@ -1,4 +1,4 @@
-async function handlePageNotFound() {
+function handlePageNotFound() {
   try {
     const target = window.location.pathname.replace(/^\//, '').replace(/\/$/, '');
     console.log("Handling page not found for target:", target);
@@ -6,25 +6,24 @@ async function handlePageNotFound() {
     // Exit early if no target (stay on the page)
     if (!target) {
       console.log("No target found, redirecting to notfound.html");
-      await new Promise(resolve => setTimeout(resolve, 1000)); // Pause for 1 second before redirecting
       redirectToNotFound();
       return;
     }
 
-    const redirected = await handleRedirection(
+    handleRedirection(
       target,
       "https://docs.google.com/spreadsheets/d/e/2PACX-1vQJVHVYt-8eeuR8iq0cxEz1uMuLY02AdFyuSeSECQSxdLbWV9PqIeVzz4Lh_Udm1nT92FDBLXDTWMqV/pub?gid=1314751843&single=true&output=tsv"
-    );
-
-    // Only redirect to notfound.html if no redirection occurred
-    if (!redirected) {
-      console.log("Redirection failed, redirecting to notfound.html");
-      await new Promise(resolve => setTimeout(resolve, 1000)); // Pause for 1 second before redirecting
+    ).then(redirected => {
+      if (!redirected) {
+        console.log("Redirection failed, redirecting to notfound.html");
+        redirectToNotFound();
+      }
+    }).catch(error => {
+      console.error("Error during redirection:", error);
       redirectToNotFound();
-    }
+    });
   } catch (error) {
     console.error("Error during redirection:", error);
-    await new Promise(resolve => setTimeout(resolve, 1000)); // Pause for 1 second before redirecting
     redirectToNotFound();
   }
 }
