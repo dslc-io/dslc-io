@@ -4,6 +4,8 @@ resources:
   - "redirect-404.js"
 ---
 
+We're debugging some issues with our redirects. Hopefully things will work again very soon!
+
 We cannot find that page.
 
 If you think there should be a page here, please [open an issue on github](https://github.com/dslc-io/dslc-io/issues).
