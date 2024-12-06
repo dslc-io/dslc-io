@@ -1,17 +1,23 @@
-var redirects = "/redirects.tsv";
-var current_path = window.location.pathname.replace(/\/$/, "");
-var query = window.location.search;
-var hash = window.location.hash;
-var new_url = "";
-var xhr = new XMLHttpRequest();
-xhr.open("GET", redirects, false);
-xhr.send();
-var lines = xhr.responseText.split("\n");
-for (var i = 0; i < lines.length; i++) {
-  var parts = lines[i].split("\t");
-  parts = parts.map(x => x.replace(/\/$/, ""));
-  if (parts[0] == current_path) {
-    window.location.href = parts[1] + query + hash;
-    break;
+// Store parsed data across multiple URLs
+const parsedTSVData = {};
+
+// General function to handle redirection
+async function handleRedirection(target, TSV_URL) {
+  try {
+    if (!target || !TSV_URL) return;
+
+    if (!parsedTSVData[TSV_URL]) {
+      const tsvData = await getOrFetchTSVData(TSV_URL);
+      if (!tsvData) return;
+
+      parsedTSVData[TSV_URL] = parseTSVDataToMap(tsvData);
+    }
+
+    const redirectMap = parsedTSVData[TSV_URL];
+    if (redirectMap[target]) {
+      window.location.href = redirectMap[target];
+    }
+  } catch (error) {
+    console.error("Error during redirection:", error);
   }
 }

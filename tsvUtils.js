@@ -20,15 +20,15 @@ const fetchTSVData = async (url) => {
   }
 };
 
-let parsedTSVData = null; // Cache the parsed TSV data
+const fetchedTSVData = {};
 
 const getOrFetchTSVData = async (url) => {
-  if (parsedTSVData) {
-    return parsedTSVData;
+  if (fetchedTSVData[url]) {
+    return fetchedTSVData[url];
   }
   const tsvData = await fetchTSVData(url);
   if (tsvData) {
-    parsedTSVData = tsvData;
+    fetchedTSVData[url] = tsvData;
   }
   return tsvData;
 };
