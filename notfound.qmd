@@ -1,0 +1,9 @@
+---
+title: "Page Not Found"
+resources:
+  - "redirect-404.js"
+---
+
+We cannot find that page.
+
+If you think there should be a page here, please [open an issue on github](https://github.com/dslc-io/dslc-io/issues).
