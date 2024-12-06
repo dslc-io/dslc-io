@@ -6,6 +6,7 @@ Eventually this page will auto-populate with QR codes for each page on the DSLC 
 
 ```{r}
 #| echo: false
+#| eval: false
 generate_qr <- function(page) {
   url <- glue::glue("https://DSLC.io/{page}")
   qr_plot <- magick::image_graph(width = 500, height = 500, res = 96)
@@ -17,6 +18,7 @@ generate_qr <- function(page) {
 ```
 ```{r}
 #| echo: false
+#| eval: false
 pages_to_parse <- c(
   "contact.html",
   "projects.html"
@@ -24,6 +26,7 @@ pages_to_parse <- c(
 ```
 ```{r}
 #| echo: false
+#| eval: false
 #| layout-ncol: 2
 #| fig-align: left
 #| fig-cap: !expr pages_to_parse
