@@ -1,10 +1,11 @@
 ---
 title: "Page Not Found"
 resources:
+  - "404.html"
+  - "tsvUtils.js"
+  - "redirect.js"
   - "redirect-404.js"
 ---
-
-We're debugging some issues with our redirects. Hopefully things will work again very soon!
 
 We cannot find that page.
 
