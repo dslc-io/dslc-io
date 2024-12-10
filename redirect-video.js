@@ -1,7 +1,7 @@
 function handleVideoRedirection() {
   try {
     const urlParams = new URLSearchParams(window.location.search);
-    const target = urlParams.get('target');
+    const target = urlParams.get('target') || window.location.hash.replace(/^#/, '');
     console.log("Handling video redirect for target:", target);
 
     // Exit early if no target
