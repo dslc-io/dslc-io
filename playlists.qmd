@@ -1,5 +1,5 @@
 ---
-title: "DSLC Videos"
+title: "DSLC Playlists"
 format:
   html:
     include-in-header:
@@ -8,10 +8,9 @@ format:
             const TSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz2OM6l9NYafJp4SISUs8W8Kql2MUumFKxpg_GLtoaybuqBxI1l9MegNceSAgPRmCOqEoNhGxp504g/pub?gid=1409549687&single=true&output=tsv";
           </script>
           <script type="text/javascript" src="tsvUtils.js"></script>
-          <script type="text/javascript" src="redirect.js"></script>
-          <script type="text/javascript" src="redirect-video.js"></script>
           <script type="text/javascript" src="playlists.js"></script>
 resources:
+  - "video.html"
   - "tsvUtils.js"
   - "redirect.js"
   - "redirect-video.js"

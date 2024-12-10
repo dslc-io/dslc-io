@@ -2,9 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-
 /.quarto/
 _site
 site_libs
 *.html
 !404.html
+!video.html
