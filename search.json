@@ -84,25 +84,67 @@
     "text": "Videos of our events are hosted by DSLC Videos.\n @DSLCvids\n DSLCvids\n @DSLCvids"
   },
   {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
+    "objectID": "notfound.html",
+    "href": "notfound.html",
+    "title": "Page Not Found",
     "section": "",
-    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
+    "text": "We cannot find that page.\nIf you think there should be a page here, please open an issue on github."
   },
   {
-    "objectID": "huhu.html",
-    "href": "huhu.html",
-    "title": "Help Us Help You",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
     "section": "",
-    "text": "Help us help you!\nMentors (and other learners) in the DSLC Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
+    "text": "The Data Science Learning Community develops tools and resources to foster the data science community to which we want to belong. Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own.\n\nJoin us on Slack\n\n\n\nWe organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to learn together!\n\n\n\nOur community members also support each other by asking and answering programming questions in our Slack help channels.\n\n\n\nWe encourage learners to share their work with the Community. Participate in our projects, such as our weekly TidyTuesday social data project.\n\n\n\nWe look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack\n\n\nMastodon"
   },
   {
-    "objectID": "bookclubs.html",
-    "href": "bookclubs.html",
-    "title": "Book Clubs",
+    "objectID": "index.html#learning-together",
+    "href": "index.html#learning-together",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
     "section": "",
-    "text": "Since early 2020, the Data Science Learning Community has organized weekly study groups to help a diverse, friendly, and inclusive community of data science learners and practitioners achieve their learning goals. We started with a handful of nontraditional learners reading a single book together, and have grown to thousands of members, reading dozens of books in small, organized cohorts that meet every week. If there’s a free, online book (or website) covering a data-related topic that you would like to read, we invite you to join us to read it together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on our Slack."
+    "text": "We organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to learn together!"
+  },
+  {
+    "objectID": "index.html#helping-one-another",
+    "href": "index.html#helping-one-another",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "Our community members also support each other by asking and answering programming questions in our Slack help channels."
+  },
+  {
+    "objectID": "index.html#learning-out-loud",
+    "href": "index.html#learning-out-loud",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We encourage learners to share their work with the Community. Participate in our projects, such as our weekly TidyTuesday social data project."
+  },
+  {
+    "objectID": "index.html#making-connections",
+    "href": "index.html#making-connections",
+    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
+    "section": "",
+    "text": "We look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack\n\n\nMastodon"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "We encourage learners to share their work with the Community."
+  },
+  {
+    "objectID": "projects.html#tidytuesday",
+    "href": "projects.html#tidytuesday",
+    "title": "Projects",
+    "section": "TidyTuesday",
+    "text": "TidyTuesday\nTidyTuesday is a weekly social data project. We post a new dataset every week at tidytues.day, and encourage learners to explore the data and share their insights on social media using the #TidyTuesday hashtag. Our over-arching goal for TidyTuesday is to make learning to work with data easier, by providing real-world datasets."
+  },
+  {
+    "objectID": "projects.html#project-club",
+    "href": "projects.html#project-club",
+    "title": "Projects",
+    "section": "Project Club",
+    "text": "Project Club\nProject Club is a monthly online meetup, in which a Community member presents something they are working on or something they find interesting. Videos of most Project Club meetings are available on the DSLC Videos YouTube channel. Everyone is invited to participate! Join our Slack, then navigate to the #project-club channel for more information."
   },
   {
     "objectID": "privacy.html",
@@ -231,74 +273,32 @@
     "text": "Eventually this page will auto-populate with QR codes for each page on the DSLC website.\n\n\n\n\n\n\n\n\n\ncontact.html\n\n\n\n\n\n\n\nprojects.html"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "We encourage learners to share their work with the Community."
-  },
-  {
-    "objectID": "projects.html#tidytuesday",
-    "href": "projects.html#tidytuesday",
-    "title": "Projects",
-    "section": "TidyTuesday",
-    "text": "TidyTuesday\nTidyTuesday is a weekly social data project. We post a new dataset every week at tidytues.day, and encourage learners to explore the data and share their insights on social media using the #TidyTuesday hashtag. Our over-arching goal for TidyTuesday is to make learning to work with data easier, by providing real-world datasets."
-  },
-  {
-    "objectID": "projects.html#project-club",
-    "href": "projects.html#project-club",
-    "title": "Projects",
-    "section": "Project Club",
-    "text": "Project Club\nProject Club is a monthly online meetup, in which a Community member presents something they are working on or something they find interesting. Videos of most Project Club meetings are available on the DSLC Videos YouTube channel. Everyone is invited to participate! Join our Slack, then navigate to the #project-club channel for more information."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "The Data Science Learning Community develops tools and resources to foster the data science community to which we want to belong. Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own.\n\nJoin us on Slack\n\n\n\nWe organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to learn together!\n\n\n\nOur community members also support each other by asking and answering programming questions in our Slack help channels.\n\n\n\nWe encourage learners to share their work with the Community. Participate in our projects, such as our weekly TidyTuesday social data project.\n\n\n\nWe look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack\n\n\nMastodon"
-  },
-  {
-    "objectID": "index.html#learning-together",
-    "href": "index.html#learning-together",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We organize book clubs to help our community members achieve their learning goals. Our members read dozens of books in small, organized cohorts that meet every week. Learn more about our book clubs, and join us to learn together!"
-  },
-  {
-    "objectID": "index.html#helping-one-another",
-    "href": "index.html#helping-one-another",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "Our community members also support each other by asking and answering programming questions in our Slack help channels."
-  },
-  {
-    "objectID": "index.html#learning-out-loud",
-    "href": "index.html#learning-out-loud",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We encourage learners to share their work with the Community. Participate in our projects, such as our weekly TidyTuesday social data project."
-  },
-  {
-    "objectID": "index.html#making-connections",
-    "href": "index.html#making-connections",
-    "title": "A diverse, friendly, and inclusive community of data science learners and practitioners.",
-    "section": "",
-    "text": "We look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack\n\n\nMastodon"
-  },
-  {
-    "objectID": "notfound.html",
-    "href": "notfound.html",
-    "title": "Page Not Found",
-    "section": "",
-    "text": "We’re debugging some issues with our redirects. Hopefully things will work again very soon!\nWe cannot find that page.\nIf you think there should be a page here, please open an issue on github."
-  },
-  {
-    "objectID": "video.html",
-    "href": "video.html",
-    "title": "DSLC Videos",
+    "objectID": "playlists.html",
+    "href": "playlists.html",
+    "title": "DSLC Playlists",
     "section": "",
     "text": "All of our book club meetings are available on YouTube. Visit our YouTube channel to catch up or follow along!"
+  },
+  {
+    "objectID": "bookclubs.html",
+    "href": "bookclubs.html",
+    "title": "Book Clubs",
+    "section": "",
+    "text": "Since early 2020, the Data Science Learning Community has organized weekly study groups to help a diverse, friendly, and inclusive community of data science learners and practitioners achieve their learning goals. We started with a handful of nontraditional learners reading a single book together, and have grown to thousands of members, reading dozens of books in small, organized cohorts that meet every week. If there’s a free, online book (or website) covering a data-related topic that you would like to read, we invite you to join us to read it together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on our Slack."
+  },
+  {
+    "objectID": "huhu.html",
+    "href": "huhu.html",
+    "title": "Help Us Help You",
+    "section": "",
+    "text": "Help us help you!\nMentors (and other learners) in the DSLC Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
   },
   {
     "objectID": "question_answering.html",

@@ -3,7 +3,7 @@ function handlePageNotFound() {
     const target = window.location.pathname.replace(/^\//, '').replace(/\/$/, '');
     console.log("Handling page not found for target:", target);
 
-    // Exit early if no target (stay on the page)
+    // Exit early if no target
     if (!target) {
       console.log("No target found, redirecting to notfound.html");
       redirectToNotFound();
