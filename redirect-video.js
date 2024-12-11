@@ -13,7 +13,8 @@ function handleVideoRedirection() {
 
     handleRedirection(
       target,
-      "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz2OM6l9NYafJp4SISUs8W8Kql2MUumFKxpg_GLtoaybuqBxI1l9MegNceSAgPRmCOqEoNhGxp504g/pub?gid=1409549687&single=true&output=tsv"
+      "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz2OM6l9NYafJp4SISUs8W8Kql2MUumFKxpg_GLtoaybuqBxI1l9MegNceSAgPRmCOqEoNhGxp504g/pub?gid=1409549687&single=true&output=tsv",
+      "redirects-video.tsv"
     ).then(redirected => {
       if (!redirected) {
         console.log("Redirection failed, redirecting to playlists.html");

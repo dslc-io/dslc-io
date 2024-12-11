@@ -12,7 +12,8 @@ function handlePageNotFound() {
 
     handleRedirection(
       target,
-      "https://docs.google.com/spreadsheets/d/e/2PACX-1vQJVHVYt-8eeuR8iq0cxEz1uMuLY02AdFyuSeSECQSxdLbWV9PqIeVzz4Lh_Udm1nT92FDBLXDTWMqV/pub?gid=1314751843&single=true&output=tsv"
+      "https://docs.google.com/spreadsheets/d/e/2PACX-1vQJVHVYt-8eeuR8iq0cxEz1uMuLY02AdFyuSeSECQSxdLbWV9PqIeVzz4Lh_Udm1nT92FDBLXDTWMqV/pub?gid=1314751843&single=true&output=tsv",
+      "redirects-404.tsv"
     ).then(redirected => {
       if (!redirected) {
         console.log("Redirection failed, redirecting to notfound.html");

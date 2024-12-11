@@ -6,29 +6,51 @@ const isTSVUrlDefined = () => {
   return true;
 };
 
-const fetchTSVData = async (url) => {
+const fetchTSVData = async (url, fallbackPath = null) => {
   try {
     console.log("Fetching TSV data from URL:", url);
     const response = await fetch(url);
     if (!response.ok) {
       console.error(`Failed to fetch TSV file. HTTP status: ${response.status}`);
+      if (fallbackPath) {
+        console.log("Using fallback data at ", fallbackPath);
+        return await fetchFallbackTSVData(fallbackPath);
+      }
       return null;
     }
     return await response.text();
   } catch (fetchError) {
     console.error("Error fetching TSV file:", fetchError);
+    if (fallbackPath) {
+      console.log("Using fallback data at ", fallbackPath);
+      return await fetchFallbackTSVData(fallbackPath);
+    }
+    return null;
+  }
+};
+
+const fetchFallbackTSVData = async (fallbackPath) => {
+  try {
+    const response = await fetch(fallbackPath);
+    if (!response.ok) {
+      console.error(`Failed to fetch fallback TSV file. HTTP status: ${response.status}`);
+      return null;
+    }
+    return await response.text();
+  } catch (fetchError) {
+    console.error("Error fetching fallback TSV file:", fetchError);
     return null;
   }
 };
 
 const fetchedTSVData = {};
 
-const getOrFetchTSVData = async (url) => {
+const getOrFetchTSVData = async (url, fallbackPath = null) => {
   if (fetchedTSVData[url]) {
     console.log("Using cached TSV data for URL:", url);
     return fetchedTSVData[url];
   }
-  const tsvData = await fetchTSVData(url);
+  const tsvData = await fetchTSVData(url, fallbackPath);
   if (tsvData) {
     fetchedTSVData[url] = tsvData;
   }
