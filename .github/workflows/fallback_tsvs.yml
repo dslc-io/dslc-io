@@ -20,7 +20,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main
           token: ${{ secrets.GITHUB_PAT }}
 
       - name: Download TSV Files with Redirect Handling
