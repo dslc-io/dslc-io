@@ -2,7 +2,7 @@
 const parsedTSVData = {};
 
 // General function to handle redirection
-async function handleRedirection(target, TSV_URL) {
+async function handleRedirection(target, TSV_URL, fallbackPath = null) {
   try {
     console.log("Handling redirection for target:", target);
     if (!target || !TSV_URL) {
@@ -12,7 +12,7 @@ async function handleRedirection(target, TSV_URL) {
 
     if (!parsedTSVData[TSV_URL]) {
       console.log("Fetching and parsing TSV data for URL:", TSV_URL);
-      const tsvData = await getOrFetchTSVData(TSV_URL);
+      const tsvData = await getOrFetchTSVData(TSV_URL, fallbackPath);
       if (!tsvData) {
         console.warn("No TSV data available for URL:", TSV_URL);
         return false;
