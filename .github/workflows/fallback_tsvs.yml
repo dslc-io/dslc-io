@@ -24,6 +24,9 @@ jobs:
       - name: Download TSV Files
         run: |
           while IFS= read -r line; do
+            # Skip empty lines
+            [ -z "$line" ] && continue
+
             filename=$(echo "$line" | cut -d' ' -f1)
             url=$(echo "$line" | cut -d' ' -f2)
             echo "Downloading $url as $filename"
