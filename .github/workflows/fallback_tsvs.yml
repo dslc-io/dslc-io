@@ -23,7 +23,7 @@ jobs:
           ref: main
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Download TSV Files
+      - name: Download TSV Files with Redirect Handling
         run: |
           while IFS= read -r line; do
             # Skip empty lines
@@ -32,7 +32,7 @@ jobs:
             filename=$(echo "$line" | cut -d' ' -f1)
             url=$(echo "$line" | cut -d' ' -f2)
             echo "Downloading $url as $filename"
-            curl -o "$filename" "$url"
+            curl -L -o "$filename" "$url"
           done <<< "$TSV_FILES"
 
       - name: 🚀 Commit
