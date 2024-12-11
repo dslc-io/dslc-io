@@ -1,0 +1,45 @@
+name: Download and Commit Fallback TSV Files
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * 3' # Every Wednesday at 08:00 UTC
+
+permissions:
+  contents: write
+
+env:
+  TSV_FILES: |
+    redirects-404.tsv https://docs.google.com/spreadsheets/d/e/2PACX-1vQJVHVYt-8eeuR8iq0cxEz1uMuLY02AdFyuSeSECQSxdLbWV9PqIeVzz4Lh_Udm1nT92FDBLXDTWMqV/pub?gid=1314751843&single=true&output=tsv
+    redirects-video.tsv https://docs.google.com/spreadsheets/d/e/2PACX-1vSz2OM6l9NYafJp4SISUs8W8Kql2MUumFKxpg_GLtoaybuqBxI1l9MegNceSAgPRmCOqEoNhGxp504g/pub?gid=1409549687&single=true&output=tsv
+
+jobs:
+  update-fallback-tsvs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download TSV Files
+        run: |
+          while IFS= read -r line; do
+            filename=$(echo "$line" | cut -d' ' -f1)
+            url=$(echo "$line" | cut -d' ' -f2)
+            echo "Downloading $url as $filename"
+            curl -o "$filename" "$url"
+          done <<< "$TSV_FILES"
+
+      - name: 🚀 Commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add --all
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🤖 Auto-update fallback TSVs"
+            git push
+          fi

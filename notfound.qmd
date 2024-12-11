@@ -5,6 +5,7 @@ resources:
   - "tsvUtils.js"
   - "redirect.js"
   - "redirect-404.js"
+  - "redirects-404.tsv"
 ---
 
 We cannot find that page.

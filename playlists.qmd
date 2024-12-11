@@ -15,6 +15,7 @@ resources:
   - "redirect.js"
   - "redirect-video.js"
   - "playlists.js"
+  - "redirects-video.tsv"
 ---
 
 All of our book club meetings are available on YouTube. [Visit our YouTube channel](https://www.youtube.com/@dslcvids) to catch up or follow along!

@@ -8,3 +8,4 @@ site_libs
 *.html
 !404.html
 !video.html
+scratch.js
