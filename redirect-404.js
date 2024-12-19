@@ -1,7 +1,7 @@
 function handlePageNotFound() {
   try {
     const url = new URL(window.location.href);
-    const target = url.pathname.replace(/^//, '').replace(//$/, '');
+    const target = url.pathname.replace(/^\//, '').replace(/\/$/, '');
     const query = url.search; // Includes the leading '?' if there are query parameters
     const hash = url.hash; // Includes the leading '#' if there is a hash
 
