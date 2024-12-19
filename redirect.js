@@ -2,7 +2,7 @@
 const parsedTSVData = {};
 
 // General function to handle redirection
-async function handleRedirection(target, TSV_URL, fallbackPath = null) {
+async function handleRedirection(target, TSV_URL, fallbackPath = null, query = null, hash = null) {
   try {
     console.log("Handling redirection for target:", target);
     if (!target || !TSV_URL) {
@@ -23,8 +23,18 @@ async function handleRedirection(target, TSV_URL, fallbackPath = null) {
 
     const redirectMap = parsedTSVData[TSV_URL];
     if (redirectMap[target]) {
-      console.log("Redirecting to URL:", redirectMap[target]);
-      window.location.href = redirectMap[target];
+      const redirectURL = new URL(redirectMap[target], window.location.origin);
+
+      if (query) {
+        redirectURL.search = query;
+      }
+
+      if (hash) {
+        redirectURL.hash = hash;
+      }
+
+      console.log("Redirecting to URL:", redirectURL.href);
+      window.location.href = redirectURL.href;
       return true;
     } else {
       console.warn("Target not found in redirect map:", target);
@@ -34,3 +44,4 @@ async function handleRedirection(target, TSV_URL, fallbackPath = null) {
   }
   return false; // Redirection failed or target not found
 }
+
