@@ -1,7 +1,13 @@
 function handlePageNotFound() {
   try {
-    const target = window.location.pathname.replace(/^\//, '').replace(/\/$/, '');
+    const url = new URL(window.location.href);
+    const target = url.pathname.replace(/^//, '').replace(//$/, '');
+    const query = url.search; // Includes the leading '?' if there are query parameters
+    const hash = url.hash; // Includes the leading '#' if there is a hash
+
     console.log("Handling page not found for target:", target);
+    console.log("Query parameters:", query);
+    console.log("Hash:", hash);
 
     // Exit early if no target
     if (!target) {
