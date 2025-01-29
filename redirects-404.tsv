@@ -1,5 +1,5 @@
 path	target
-join	https://join.slack.com/t/dslcio/shared_invite/zt-2xt2zx8tv-AAWIL2XLCq0qhdD0xJdKMA
+join	https://join.slack.com/t/dslcio/shared_invite/zt-2ywhl4ggw-k1BpkEdCYGCW2MzcyRJLqg
 mentordash	https://r4dscommunity.shinyapps.io/mentordash
 youtube	https://www.youtube.com/channel/UCCaChdLMTYMxyawR_Qf-kYA
 clubs	https://dslc.io/join
@@ -31,9 +31,11 @@ epgs	https://r4ds.github.io/bookclub-epgs/
 feat_eng	https://r4ds.github.io/bookclub-feat_eng/
 fnc	https://r4ds.github.io/bookclub-fnc/
 fpp	https://r4ds.github.io/bookclub-fpp/
+genai	https://r4ds.github.io/bookclub-genai/
 geocompr	https://r4ds.github.io/bookclub-geocompr/
-geohealth	https://r4ds.github.io/bookclub-geohealth
+geohealth	https://r4ds.github.io/bookclub-geohealth/
 ggplot2	https://r4ds.github.io/bookclub-ggplot2/
+health_metrics	https://r4ds.github.io/bookclub-health_metrics/
 homl	https://r4ds.github.io/bookclub-homl/
 httptestr	https://r4ds.github.io/bookclub-httptestr/
 islp	https://r4ds.github.io/bookclub-islp/
