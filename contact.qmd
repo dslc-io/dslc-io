@@ -9,6 +9,8 @@ title: "Contact Us"
 {{< fa brands linkedin >}} [DSLC-io](https://www.linkedin.com/company/dslc-io)
 
 {{< fa brands mastodon >}} [@DSLC](https://fosstodon.org/@DSLC)
+
+{{< fa brands bluesky >}} Bluesky: [@DSLC.io](http://bsky.app/profile/dslc.io)
 :::
 
 ::: column
