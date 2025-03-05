@@ -17,18 +17,18 @@ website:
     logo: images/dslc_edu_line_gray.png
     logo-alt: "Data Science Learning Community"
     title: false
-    tools:
+    right:
       # This will appear when/if there's a bluesky bootstrap icon, fails
       # silently until then.
-      - icon: bluesky
+      - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/dslc.io
-      - icon: mastodon
+      - text: "{{< fa brands mastodon >}}"
         href: https://fosstodon.org/@DSLC
-      - icon: linkedin
+      - text: "{{< fa brands linkedin >}}"
         href: https://www.linkedin.com/company/dslc-io
-      - icon: youtube
+      - text: "{{< fa brands youtube >}}"
         href: https://www.youtube.com/@dslcvids
-      - icon: github
+      - text: "{{< fa brands github >}}"
         href: https://github.com/r4ds
     left:
       - href: bookclubs.qmd
