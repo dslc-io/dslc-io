@@ -9,3 +9,4 @@ If there’s a free, online book (or website) covering a data-related topic that
 -   [Calendar of current book clubs](https://dslc.io/events)
 -   [Sign up for a new club](https://dslc.io/bookclubber)
     -   Requires a [free membership on our Slack](https://dslc.io/join).
+-   You can see what we've read so far [here](playlists.html).
