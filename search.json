@@ -1,5 +1,75 @@
 [
   {
+    "objectID": "question_answering.html",
+    "href": "question_answering.html",
+    "title": "Get Help",
+    "section": "",
+    "text": "Our community members support one another by asking and answering programming questions in our Slack help channels. We keep those channels friendly and inclusive, and we work to ensure that we answer every question.\nJoin our Slack to ask and answer questions (if the join link says it is expired, please let us know)."
+  },
+  {
+    "objectID": "question_answering.html#available-help-channels",
+    "href": "question_answering.html#available-help-channels",
+    "title": "Get Help",
+    "section": "Available help channels:",
+    "text": "Available help channels:\n\n\n\nR help\n\nR (general questions)\nData import\nDataviz, plotting, etc\nExplore, wrangle\nModel\nProgramming, testing, etc\nRmarkdown, quarto, etc\nShiny\n\n\n\n\nOther topics\n\nJuliaLang (general questions)\nPython (general questions)\nSQL (general questions)\nDevops\nGithub, open source\nStatistics"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
+  },
+  {
+    "objectID": "code_of_conduct.html",
+    "href": "code_of_conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-pledge",
+    "href": "code_of_conduct.html#our-pledge",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-standards",
+    "href": "code_of_conduct.html#our-standards",
+    "title": "Code of Conduct",
+    "section": "Our Standards",
+    "text": "Our Standards\nExamples of behavior that contributes to creating a positive environment include:\n\nUsing welcoming and inclusive language\nBeing respectful of differing viewpoints and experiences\nGracefully accepting constructive criticism\nFocusing on what is best for the community\nShowing empathy towards other community members\n\nExamples of unacceptable behavior by participants include:\n\nThe use of sexualized language or imagery and unwelcome sexual attention or advances\nTrolling, insulting/derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or electronic address, without explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+  },
+  {
+    "objectID": "code_of_conduct.html#our-responsibilities",
+    "href": "code_of_conduct.html#our-responsibilities",
+    "title": "Code of Conduct",
+    "section": "Our Responsibilities",
+    "text": "Our Responsibilities\nCommunity administrators are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.\nCommunity administrators have the right and responsibility to remove, edit, or reject comments, questions, answers, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful."
+  },
+  {
+    "objectID": "code_of_conduct.html#scope",
+    "href": "code_of_conduct.html#scope",
+    "title": "Code of Conduct",
+    "section": "Scope",
+    "text": "Scope\nThis Code of Conduct applies both within Data Science Learning Community spaces and in public spaces when an individual is representing the community. Examples of representing a community include using an official Data Science Learning Community e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the community may be further defined and clarified by community administrators."
+  },
+  {
+    "objectID": "code_of_conduct.html#enforcement",
+    "href": "code_of_conduct.html#enforcement",
+    "title": "Code of Conduct",
+    "section": "Enforcement",
+    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community administrators at conduct@DSLC.io. The community administrators will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The community administrators are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.\nCommunity administrators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the community’s leadership."
+  },
+  {
+    "objectID": "code_of_conduct.html#attribution",
+    "href": "code_of_conduct.html#attribution",
+    "title": "Code of Conduct",
+    "section": "Attribution",
+    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4"
+  },
+  {
     "objectID": "privacy.html",
     "href": "privacy.html",
     "title": "Privacy",
@@ -77,25 +147,18 @@
     "text": "We look forward to learning more about you on our active, friendly Slack community!\n\nJoin us on Slack\n\n\nMastodon"
   },
   {
-    "objectID": "question_answering.html",
-    "href": "question_answering.html",
-    "title": "Get Help",
+    "objectID": "qr_codes.html",
+    "href": "qr_codes.html",
+    "title": "QR Codes",
     "section": "",
-    "text": "Our community members support one another by asking and answering programming questions in our Slack help channels. We keep those channels friendly and inclusive, and we work to ensure that we answer every question.\nJoin our Slack to ask and answer questions (if the join link says it is expired, please let us know)."
+    "text": "Eventually this page will auto-populate with QR codes for each page on the DSLC website.\n\n\n\n\n\n\ncontact.html\n\n\n\n\n\n\n\nprojects.html"
   },
   {
-    "objectID": "question_answering.html#available-help-channels",
-    "href": "question_answering.html#available-help-channels",
-    "title": "Get Help",
-    "section": "Available help channels:",
-    "text": "Available help channels:\n\n\n\nR help\n\nR (general questions)\nData import\nDataviz, plotting, etc\nExplore, wrangle\nModel\nProgramming, testing, etc\nRmarkdown, quarto, etc\nShiny\n\n\n\n\nOther topics\n\nJuliaLang (general questions)\nPython (general questions)\nSQL (general questions)\nDevops\nGithub, open source\nStatistics"
-  },
-  {
-    "objectID": "faq.html",
-    "href": "faq.html",
-    "title": "Frequently Asked Questions",
+    "objectID": "huhu.html",
+    "href": "huhu.html",
+    "title": "Help Us Help You",
     "section": "",
-    "text": "Question: Why did you change your name?\nAnswer: We wanted a name that caused less confusion.\nWe launched in 2017 as an online space for learners and mentors to gather to read R for Data Science (R4DS) by Hadley Wickham and Garrett Grolemund together. The name “R4DS Online Learning Community” made sense for that group.\nHowever, we now support much more than just that one book.\n\n\nQuestion: Are you changing your focus from R to Python?\nAnswer: No! We seek to support all data science learners.\nWe began with R, our internal tools are written in R, and many of our users, book clubs and channels focus on R. However, we know that data scientists use many languages in their day-to-day work, including Python, Julia, SQL, and others. We want to help data science learners learn all of the skills they need, regardless of whether those skills involve R, Python, Julia, SQL, JavaScript, or no programming language at all.\n\n\nQuestion: Aren’t you just a book club for R for Data Science?\nAnswer: No! We support over fifty books and at least four programming languages!\nWe began with R for Data Science because it is a great book for beginners. But we host book clubs for many other R book (such as Advanced R, Mastering Shiny, and Tidy Modeling with R), and even other programming languages (such as Python for Data Analysis and Fundamentals of Numerical Computation with Julia).\n\n\nQuestion: Are you part of (Posit, Google, etc)?\nAnswer: No! We are an independent organization.\nGoogle mentions us in their Data Analytics Certificate courses, and we received a donation from Posit in our former incarnation as the R4DS Online Learning Community. However, we are not affiliated with either organization."
+    "text": "Help us help you!\nMentors (and other learners) in the DSLC Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
   },
   {
     "objectID": "contact.html",
@@ -133,18 +196,11 @@
     "text": "Videos of our events are hosted by DSLC Videos.\n @DSLCvids\n DSLCvids\n @DSLCvids"
   },
   {
-    "objectID": "notfound.html",
-    "href": "notfound.html",
-    "title": "Page Not Found",
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Frequently Asked Questions",
     "section": "",
-    "text": "We cannot find that page.\nIf you think there should be a page here, please open an issue on github."
-  },
-  {
-    "objectID": "qr_codes.html",
-    "href": "qr_codes.html",
-    "title": "QR Codes",
-    "section": "",
-    "text": "Eventually this page will auto-populate with QR codes for each page on the DSLC website.\n\n\n\n\n\n\ncontact.html\n\n\n\n\n\n\n\nprojects.html"
+    "text": "Question: Why did you change your name?\nAnswer: We wanted a name that caused less confusion.\nWe launched in 2017 as an online space for learners and mentors to gather to read R for Data Science (R4DS) by Hadley Wickham and Garrett Grolemund together. The name “R4DS Online Learning Community” made sense for that group.\nHowever, we now support much more than just that one book.\n\n\nQuestion: Are you changing your focus from R to Python?\nAnswer: No! We seek to support all data science learners.\nWe began with R, our internal tools are written in R, and many of our users, book clubs and channels focus on R. However, we know that data scientists use many languages in their day-to-day work, including Python, Julia, SQL, and others. We want to help data science learners learn all of the skills they need, regardless of whether those skills involve R, Python, Julia, SQL, JavaScript, or no programming language at all.\n\n\nQuestion: Aren’t you just a book club for R for Data Science?\nAnswer: No! We support over fifty books and at least four programming languages!\nWe began with R for Data Science because it is a great book for beginners. But we host book clubs for many other R book (such as Advanced R, Mastering Shiny, and Tidy Modeling with R), and even other programming languages (such as Python for Data Analysis and Fundamentals of Numerical Computation with Julia).\n\n\nQuestion: Are you part of (Posit, Google, etc)?\nAnswer: No! We are an independent organization.\nGoogle mentions us in their Data Analytics Certificate courses, and we received a donation from Posit in our former incarnation as the R4DS Online Learning Community. However, we are not affiliated with either organization."
   },
   {
     "objectID": "governance.html",
@@ -203,53 +259,18 @@
     "text": "The Data Science Learning Commmunity does not currently solicit donations. If you are interested in donating time or money, please contact us."
   },
   {
-    "objectID": "code_of_conduct.html",
-    "href": "code_of_conduct.html",
-    "title": "Code of Conduct",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Our Story",
     "section": "",
-    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
+    "text": "The Data Science Learning Community is a diverse, friendly, and inclusive community of data science learners and practitioners.\nWe launched in August 2017 as the R4DS Online Learning Community, a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of thousands of learners."
   },
   {
-    "objectID": "code_of_conduct.html#our-pledge",
-    "href": "code_of_conduct.html#our-pledge",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
-  },
-  {
-    "objectID": "code_of_conduct.html#our-standards",
-    "href": "code_of_conduct.html#our-standards",
-    "title": "Code of Conduct",
-    "section": "Our Standards",
-    "text": "Our Standards\nExamples of behavior that contributes to creating a positive environment include:\n\nUsing welcoming and inclusive language\nBeing respectful of differing viewpoints and experiences\nGracefully accepting constructive criticism\nFocusing on what is best for the community\nShowing empathy towards other community members\n\nExamples of unacceptable behavior by participants include:\n\nThe use of sexualized language or imagery and unwelcome sexual attention or advances\nTrolling, insulting/derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or electronic address, without explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
-  },
-  {
-    "objectID": "code_of_conduct.html#our-responsibilities",
-    "href": "code_of_conduct.html#our-responsibilities",
-    "title": "Code of Conduct",
-    "section": "Our Responsibilities",
-    "text": "Our Responsibilities\nCommunity administrators are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.\nCommunity administrators have the right and responsibility to remove, edit, or reject comments, questions, answers, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful."
-  },
-  {
-    "objectID": "code_of_conduct.html#scope",
-    "href": "code_of_conduct.html#scope",
-    "title": "Code of Conduct",
-    "section": "Scope",
-    "text": "Scope\nThis Code of Conduct applies both within Data Science Learning Community spaces and in public spaces when an individual is representing the community. Examples of representing a community include using an official Data Science Learning Community e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the community may be further defined and clarified by community administrators."
-  },
-  {
-    "objectID": "code_of_conduct.html#enforcement",
-    "href": "code_of_conduct.html#enforcement",
-    "title": "Code of Conduct",
-    "section": "Enforcement",
-    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community administrators at conduct@DSLC.io. The community administrators will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The community administrators are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.\nCommunity administrators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the community’s leadership."
-  },
-  {
-    "objectID": "code_of_conduct.html#attribution",
-    "href": "code_of_conduct.html#attribution",
-    "title": "Code of Conduct",
-    "section": "Attribution",
-    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4"
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "Our Story",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
   },
   {
     "objectID": "bookclubs.html",
@@ -280,11 +301,11 @@
     "text": "Project Club\nProject Club is a monthly online meetup, in which a Community member presents something they are working on or something they find interesting. Videos of most Project Club meetings are available on the DSLC Videos YouTube channel. Everyone is invited to participate! Join our Slack, then navigate to the #project-club channel for more information."
   },
   {
-    "objectID": "huhu.html",
-    "href": "huhu.html",
-    "title": "Help Us Help You",
+    "objectID": "notfound.html",
+    "href": "notfound.html",
+    "title": "Page Not Found",
     "section": "",
-    "text": "Help us help you!\nMentors (and other learners) in the DSLC Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
+    "text": "We cannot find that page.\nIf you think there should be a page here, please open an issue on github."
   },
   {
     "objectID": "playlists.html",
@@ -292,26 +313,5 @@
     "title": "DSLC Playlists",
     "section": "",
     "text": "All of our book club meetings are available on YouTube. Visit our YouTube channel to catch up or follow along!"
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Our Story",
-    "section": "",
-    "text": "The Data Science Learning Community is a diverse, friendly, and inclusive community of data science learners and practitioners.\nWe launched in August 2017 as the R4DS Online Learning Community, a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of thousands of learners."
-  },
-  {
-    "objectID": "about.html#footnotes",
-    "href": "about.html#footnotes",
-    "title": "Our Story",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
   }
 ]
