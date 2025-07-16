@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "privacy.html",
-    "href": "privacy.html",
-    "title": "Privacy",
-    "section": "",
-    "text": "This notice describes how the Data Science Learning Community (DSLC for short) collects and uses data about you."
-  },
-  {
-    "objectID": "privacy.html#what-is-the-data-science-learning-community",
-    "href": "privacy.html#what-is-the-data-science-learning-community",
-    "title": "Privacy",
-    "section": "What is the Data Science Learning Community?",
-    "text": "What is the Data Science Learning Community?\nDSLC is a community managed by volunteers.\nThe DSLC Slack is hosted by Slack Technologies. See their privacy policy here."
-  },
-  {
-    "objectID": "privacy.html#how-does-dslc-collect-data-about-me",
-    "href": "privacy.html#how-does-dslc-collect-data-about-me",
-    "title": "Privacy",
-    "section": "How does DSLC collect data about me?",
-    "text": "How does DSLC collect data about me?\nDSLC collects data about you:\n\nwhen you browse dslc.io.\nwhen you create and use an account on our Slack team.\nwhen you post, send private messages, answer a thread, or otherwise participate in the DSLC Slack.\nwhen you participate in an Data Science Learning Community project, such as our mentorship pairing program."
-  },
-  {
-    "objectID": "privacy.html#what-does-dslc-collect-about-me-and-why",
-    "href": "privacy.html#what-does-dslc-collect-about-me-and-why",
-    "title": "Privacy",
-    "section": "What does DSLC collect about me, and why?",
-    "text": "What does DSLC collect about me, and why?\nWhen you browse dslc.io, we may collect Google Analytics data. We use this data to better understand where our users are coming from.\nWhen you create and use an account on our Slack team, we collect an email address and other optional information.\n\nSlack requires this information for account creation.\nIf we need to talk to you about our Code of Conduct, we may contact you via this email address.\nWe do not intentionally share this email address with anyone, but Slack may make it available.\nYou can erase your personal information from your account at any time.\nSlack stores your account data as long as your account remains open.\n\nWhen you post, send private messages, answer a thread, or otherwise participate in the DSLC Slack, you generate content that may be accessible via Slack applications and the Slack API. DSLC uses this data to improve the experience, and may share posts outside of the DSLC Slack (for example, in a blog post or presentation about the mentoring process). All answers shared on the DSLC Slack are considered to be licensed under the Creative Commons CC0 license; people are free to copy/paste your code into their projects with no impact on the licensing of those projects. This data is retained according to Slack’s data retention policies.\nWhen you participate in an Data Science Learning Community project, we collect any data necessary for that project, such as a github repo url or demographic data for mentorship matching. We will only share any provided data as described in the terms of that particular project. Unless otherwise specified in the specific project, DSLC does not share data collected for such projects.\nDSLC does not sell or share your data with other companies or services. However, as described above, other services used by DSLC may collect your data, specifically Slack Technologies and Google Analytics."
-  },
-  {
-    "objectID": "privacy.html#how-can-i-contact-dslc-about-privacy",
-    "href": "privacy.html#how-can-i-contact-dslc-about-privacy",
-    "title": "Privacy",
-    "section": "How can I contact DSLC about privacy?",
-    "text": "How can I contact DSLC about privacy?\nIf you have any questions about privacy, please contact the Community administrators at privacy@DSLC.io."
-  },
-  {
-    "objectID": "privacy.html#when-did-this-privacy-policy-take-effect",
-    "href": "privacy.html#when-did-this-privacy-policy-take-effect",
-    "title": "Privacy",
-    "section": "When did this privacy policy take effect?",
-    "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
-  },
-  {
-    "objectID": "bookclubs.html",
-    "href": "bookclubs.html",
-    "title": "Book Clubs",
-    "section": "",
-    "text": "Since early 2020, the Data Science Learning Community has organized weekly study groups to help a diverse, friendly, and inclusive community of data science learners and practitioners achieve their learning goals. We started with a handful of nontraditional learners reading a single book together, and have grown to thousands of members, reading dozens of books in small, organized cohorts that meet every week. If there’s a free, online book (or website) covering a data-related topic that you would like to read, we invite you to join us to read it together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on our Slack.\n\nYou can see what we’ve read so far here."
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -68,6 +19,181 @@
     "title": "Projects",
     "section": "Project Club",
     "text": "Project Club\nProject Club is a monthly online meetup, in which a Community member presents something they are working on or something they find interesting. Videos of most Project Club meetings are available on the DSLC Videos YouTube channel. Everyone is invited to participate! Join our Slack, then navigate to the #project-club channel for more information."
+  },
+  {
+    "objectID": "playlists.html",
+    "href": "playlists.html",
+    "title": "DSLC Playlists",
+    "section": "",
+    "text": "All of our book club meetings are available on YouTube. Visit our YouTube channel to catch up or follow along!"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
+  },
+  {
+    "objectID": "qr_codes.html",
+    "href": "qr_codes.html",
+    "title": "QR Codes",
+    "section": "",
+    "text": "Eventually this page will auto-populate with QR codes for each page on the DSLC website.\n\n\n\n\n\n\ncontact.html\n\n\n\n\n\n\n\nprojects.html"
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "Question: Why did you change your name?\nAnswer: We wanted a name that caused less confusion.\nWe launched in 2017 as an online space for learners and mentors to gather to read R for Data Science (R4DS) by Hadley Wickham and Garrett Grolemund together. The name “R4DS Online Learning Community” made sense for that group.\nHowever, we now support much more than just that one book.\n\n\nQuestion: Are you changing your focus from R to Python?\nAnswer: No! We seek to support all data science learners.\nWe began with R, our internal tools are written in R, and many of our users, book clubs and channels focus on R. However, we know that data scientists use many languages in their day-to-day work, including Python, Julia, SQL, and others. We want to help data science learners learn all of the skills they need, regardless of whether those skills involve R, Python, Julia, SQL, JavaScript, or no programming language at all.\n\n\nQuestion: Aren’t you just a book club for R for Data Science?\nAnswer: No! We support over fifty books and at least four programming languages!\nWe began with R for Data Science because it is a great book for beginners. But we host book clubs for many other R book (such as Advanced R, Mastering Shiny, and Tidy Modeling with R), and even other programming languages (such as Python for Data Analysis and Fundamentals of Numerical Computation with Julia).\n\n\nQuestion: Are you part of (Posit, Google, etc)?\nAnswer: No! We are an independent organization.\nGoogle mentions us in their Data Analytics Certificate courses, and we received a donation from Posit in our former incarnation as the R4DS Online Learning Community. However, we are not affiliated with either organization."
+  },
+  {
+    "objectID": "question_answering.html",
+    "href": "question_answering.html",
+    "title": "Get Help",
+    "section": "",
+    "text": "Our community members support one another by asking and answering programming questions in our Slack help channels. We keep those channels friendly and inclusive, and we work to ensure that we answer every question.\nJoin our Slack to ask and answer questions (if the join link says it is expired, please let us know)."
+  },
+  {
+    "objectID": "question_answering.html#available-help-channels",
+    "href": "question_answering.html#available-help-channels",
+    "title": "Get Help",
+    "section": "Available help channels:",
+    "text": "Available help channels:\n\n\n\nR help\n\nR (general questions)\nData import\nDataviz, plotting, etc\nExplore, wrangle\nModel\nProgramming, testing, etc\nRmarkdown, quarto, etc\nShiny\n\n\n\n\nOther topics\n\nJuliaLang (general questions)\nPython (general questions)\nSQL (general questions)\nDevops\nGithub, open source\nStatistics"
+  },
+  {
+    "objectID": "bookclubs.html",
+    "href": "bookclubs.html",
+    "title": "Book Clubs",
+    "section": "",
+    "text": "Since early 2020, the Data Science Learning Community has organized weekly study groups to help a diverse, friendly, and inclusive community of data science learners and practitioners achieve their learning goals. We started with a handful of nontraditional learners reading a single book together, and have grown to thousands of members, reading dozens of books in small, organized cohorts that meet every week. If there’s a free, online book (or website) covering a data-related topic that you would like to read, we invite you to join us to read it together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on our Slack.\n\nYou can see what we’ve read so far here."
+  },
+  {
+    "objectID": "notfound.html",
+    "href": "notfound.html",
+    "title": "Page Not Found",
+    "section": "",
+    "text": "We cannot find that page.\nIf you think there should be a page here, please open an issue on github."
+  },
+  {
+    "objectID": "code_of_conduct.html",
+    "href": "code_of_conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-pledge",
+    "href": "code_of_conduct.html#our-pledge",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-standards",
+    "href": "code_of_conduct.html#our-standards",
+    "title": "Code of Conduct",
+    "section": "Our Standards",
+    "text": "Our Standards\nExamples of behavior that contributes to creating a positive environment include:\n\nUsing welcoming and inclusive language\nBeing respectful of differing viewpoints and experiences\nGracefully accepting constructive criticism\nFocusing on what is best for the community\nShowing empathy towards other community members\n\nExamples of unacceptable behavior by participants include:\n\nThe use of sexualized language or imagery and unwelcome sexual attention or advances\nTrolling, insulting/derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or electronic address, without explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+  },
+  {
+    "objectID": "code_of_conduct.html#our-responsibilities",
+    "href": "code_of_conduct.html#our-responsibilities",
+    "title": "Code of Conduct",
+    "section": "Our Responsibilities",
+    "text": "Our Responsibilities\nCommunity administrators are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.\nCommunity administrators have the right and responsibility to remove, edit, or reject comments, questions, answers, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful."
+  },
+  {
+    "objectID": "code_of_conduct.html#scope",
+    "href": "code_of_conduct.html#scope",
+    "title": "Code of Conduct",
+    "section": "Scope",
+    "text": "Scope\nThis Code of Conduct applies both within Data Science Learning Community spaces and in public spaces when an individual is representing the community. Examples of representing a community include using an official Data Science Learning Community e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the community may be further defined and clarified by community administrators."
+  },
+  {
+    "objectID": "code_of_conduct.html#enforcement",
+    "href": "code_of_conduct.html#enforcement",
+    "title": "Code of Conduct",
+    "section": "Enforcement",
+    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community administrators at conduct@DSLC.io. The community administrators will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The community administrators are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.\nCommunity administrators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the community’s leadership."
+  },
+  {
+    "objectID": "code_of_conduct.html#attribution",
+    "href": "code_of_conduct.html#attribution",
+    "title": "Code of Conduct",
+    "section": "Attribution",
+    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Our Story",
+    "section": "",
+    "text": "The Data Science Learning Community is a diverse, friendly, and inclusive community of data science learners and practitioners.\nWe launched in August 2017 as the R4DS Online Learning Community, a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of thousands of learners."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "Our Story",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
+  },
+  {
+    "objectID": "governance.html",
+    "href": "governance.html",
+    "title": "Governance",
+    "section": "",
+    "text": "The Data Science Learning Community (“DSLC”) comprises the DSLC Slack community, and the repositories under the r4ds GitHub organization, the rfordatascience Github organization, and the dslc-io GitHub organization (and the packages, websites, and data pipelines that those repositories represent). It has a large community of learners, mentors, and facilitators, a team of administrators, a Board of Directors, and an Executive Director. This document details how the project is governed and what the various responsibilities are for each role in the community.\nTLDR: The DSLC Board of Directors (led by the Executive Director) leads the strategy, development, and maintenance of DSLC and actively welcomes engagement from the community of learners, mentors, and facilitators."
+  },
+  {
+    "objectID": "governance.html#board-of-directors",
+    "href": "governance.html#board-of-directors",
+    "title": "Governance",
+    "section": "Board of Directors",
+    "text": "Board of Directors\nThe Board of Directors of the Data Science Learning Community is:\n\nJon Harmon\nTan Ho\nLydia Gibson\n\nBoard of Directors members are collectively responsible for governance of the Data Science Learning Community. Governance activities include:\n\nEnsuring the long term viability of the DSLC;\nDeciding on organization-wide policies, procedures, and issues;\nDealing with issues related to the code of conduct;\nApproving DSLC expenses;\nAny other decisions that impact the community as a whole.\n\nAn invitation to join the Board of Directors can be extended to anyone who has shown interest and aptitude in furthering the goals of the Data Science Learning Community. Any existing Board of Directors member can contact the Executive Director to recommend that a member of the Community be invited to the Board of Directors. If the Executive Director approves of the nomination, they will put the member forward to the rest of the Board of Directors for a simple-majority vote.\nAll Board of Directors members are bound by the code of conduct.\nIf a member of the Board of Directors no longer wishes to be a member of the Board of Directors, they may retire from the Board of Directors by informing the Executive Director. If a member of the Board of Directors becomes inactive or no longer reflects the values of the Community, they may be removed from the Board of Directors by a two-thirds majority vote of the Board of Directors members."
+  },
+  {
+    "objectID": "governance.html#executive-director",
+    "href": "governance.html#executive-director",
+    "title": "Governance",
+    "section": "Executive Director",
+    "text": "Executive Director\nJon Harmon is the Executive Director.\nThe Executive Director is a single individual, elected by the Board of Directors. Once someone has been appointed Executive Director, they remain in that role until they choose to retire, or the Board of Directors casts a two-thirds majority vote to remove them.\nThe Executive Director is responsible for coordinating and facilitating communications within the Board of Directors and between the Board of Directors and third parties. Where required and with the consent of the Board of Directors, the Executive Director may act on behalf of the Board of Directors and the Data Science Learning Community.\nThe Executive Director has no additional authority over other members of the Board of Directors; the role is one of coordinator and facilitator. The Executive Director is also expected to ensure that all governance processes are adhered to, and has the deciding vote in the event an action does not receive consensus among the Board of Directors.\nThe Executive Director is bound by the code of conduct."
+  },
+  {
+    "objectID": "governance.html#administrators",
+    "href": "governance.html#administrators",
+    "title": "Governance",
+    "section": "Administrators",
+    "text": "Administrators\nAdministrators help to manage the DSLC Slack and/or GitHub repositories. Common administrator activities may include (in addition to those of a learner, mentor, and/or facilitator):\n\nApproving and merging pull requests;\nDeleting spam messages;\nRemoving learners who violate the code of conduct;\nApproving or denying Slack app requests.\n\nCurrently, all administrators are also members of the Board of Directors, and are added through the same process."
+  },
+  {
+    "objectID": "governance.html#facilitators",
+    "href": "governance.html#facilitators",
+    "title": "Governance",
+    "section": "Facilitators",
+    "text": "Facilitators\nFacilitators are learners who help organize and run DSLC book clubs. Common facilitator activities may include (in addition to those of a learner):\n\nIntroducing new book clubs (and presenting the first chapter);\nEnsuring that someone is signed up to present each week;\nReminding club members about meeting times;\nInforming administrators of any requested changes in the book club schedule;\nHelping to maintain the book club slide repository;\nInforming administrators of any issues that need to be escalated.\n\nFacilitators must have participated in at least one previous book club, and must have lead the discussion at least once. Facilitators are not expected to be experts in the book nor its subject; they are members of the club just like any other learner."
+  },
+  {
+    "objectID": "governance.html#mentors",
+    "href": "governance.html#mentors",
+    "title": "Governance",
+    "section": "Mentors",
+    "text": "Mentors\nMentors are learners who answer questions on the DSLC Slack. Common mentor activities may include (in addition to those of a learner):\n\nAnswering questions on the DSLC Slack;\nHelping tag questions on the DSLC Slack with the DSLC emoji vocabulary;\nHolding semi-official office hours to answer questions in a structured format;\nWelcoming new users to the DSLC Slack.\n\nAnyone can become a mentor: there is no expectation of commitment to the project, no required skillset, and no selection process. The only obligation is to follow the code of conduct. Mentors who continue to engage with the project are added to the private #mentors_chat channel for further tips and discussion, but they are under no obligation to continue to answer questions."
+  },
+  {
+    "objectID": "governance.html#learners",
+    "href": "governance.html#learners",
+    "title": "Governance",
+    "section": "Learners",
+    "text": "Learners\nPeople who use the DSLC Slack, participate in DSLC book clubs, use DSLC packages, and participate in TidyTuesday are the most important members of the community. Without these learners, this project would have no purpose.\nLearners are encouraged to participate in the life of the project and the community as much as possible. Learner contributions help ensure that the project is satisfying users’ needs. Common learner activities include (but are not limited to):\n\nPosting about TidyTuesday or other DSLC projects on social media;\nAsking questions on the DSLC Slack;\nParticipating in DSLC book clubs;\nProviding moral support (a “thank you” goes a long way).\n\nLearners who continue to engage with the project and its community will often find themselves becoming more and more involved. Such learners may then go on to become mentors and/or facilitators, as described below."
+  },
+  {
+    "objectID": "huhu.html",
+    "href": "huhu.html",
+    "title": "Help Us Help You",
+    "section": "",
+    "text": "Help us help you!\nMentors (and other learners) in the DSLC Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
   },
   {
     "objectID": "index.html",
@@ -140,146 +266,6 @@
     "text": "Videos of our events are hosted by DSLC Videos.\n @DSLCvids\n DSLCvids\n @DSLCvids"
   },
   {
-    "objectID": "huhu.html",
-    "href": "huhu.html",
-    "title": "Help Us Help You",
-    "section": "",
-    "text": "Help us help you!\nMentors (and other learners) in the DSLC Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
-  },
-  {
-    "objectID": "faq.html",
-    "href": "faq.html",
-    "title": "Frequently Asked Questions",
-    "section": "",
-    "text": "Question: Why did you change your name?\nAnswer: We wanted a name that caused less confusion.\nWe launched in 2017 as an online space for learners and mentors to gather to read R for Data Science (R4DS) by Hadley Wickham and Garrett Grolemund together. The name “R4DS Online Learning Community” made sense for that group.\nHowever, we now support much more than just that one book.\n\n\nQuestion: Are you changing your focus from R to Python?\nAnswer: No! We seek to support all data science learners.\nWe began with R, our internal tools are written in R, and many of our users, book clubs and channels focus on R. However, we know that data scientists use many languages in their day-to-day work, including Python, Julia, SQL, and others. We want to help data science learners learn all of the skills they need, regardless of whether those skills involve R, Python, Julia, SQL, JavaScript, or no programming language at all.\n\n\nQuestion: Aren’t you just a book club for R for Data Science?\nAnswer: No! We support over fifty books and at least four programming languages!\nWe began with R for Data Science because it is a great book for beginners. But we host book clubs for many other R book (such as Advanced R, Mastering Shiny, and Tidy Modeling with R), and even other programming languages (such as Python for Data Analysis and Fundamentals of Numerical Computation with Julia).\n\n\nQuestion: Are you part of (Posit, Google, etc)?\nAnswer: No! We are an independent organization.\nGoogle mentions us in their Data Analytics Certificate courses, and we received a donation from Posit in our former incarnation as the R4DS Online Learning Community. However, we are not affiliated with either organization."
-  },
-  {
-    "objectID": "governance.html",
-    "href": "governance.html",
-    "title": "Governance",
-    "section": "",
-    "text": "The Data Science Learning Community (“DSLC”) comprises the DSLC Slack community, and the repositories under the r4ds GitHub organization, the rfordatascience Github organization, and the dslc-io GitHub organization (and the packages, websites, and data pipelines that those repositories represent). It has a large community of learners, mentors, and facilitators, a team of administrators, a Board of Directors, and an Executive Director. This document details how the project is governed and what the various responsibilities are for each role in the community.\nTLDR: The DSLC Board of Directors (led by the Executive Director) leads the strategy, development, and maintenance of DSLC and actively welcomes engagement from the community of learners, mentors, and facilitators."
-  },
-  {
-    "objectID": "governance.html#board-of-directors",
-    "href": "governance.html#board-of-directors",
-    "title": "Governance",
-    "section": "Board of Directors",
-    "text": "Board of Directors\nThe Board of Directors of the Data Science Learning Community is:\n\nJon Harmon\nTan Ho\nLydia Gibson\n\nBoard of Directors members are collectively responsible for governance of the Data Science Learning Community. Governance activities include:\n\nEnsuring the long term viability of the DSLC;\nDeciding on organization-wide policies, procedures, and issues;\nDealing with issues related to the code of conduct;\nApproving DSLC expenses;\nAny other decisions that impact the community as a whole.\n\nAn invitation to join the Board of Directors can be extended to anyone who has shown interest and aptitude in furthering the goals of the Data Science Learning Community. Any existing Board of Directors member can contact the Executive Director to recommend that a member of the Community be invited to the Board of Directors. If the Executive Director approves of the nomination, they will put the member forward to the rest of the Board of Directors for a simple-majority vote.\nAll Board of Directors members are bound by the code of conduct.\nIf a member of the Board of Directors no longer wishes to be a member of the Board of Directors, they may retire from the Board of Directors by informing the Executive Director. If a member of the Board of Directors becomes inactive or no longer reflects the values of the Community, they may be removed from the Board of Directors by a two-thirds majority vote of the Board of Directors members."
-  },
-  {
-    "objectID": "governance.html#executive-director",
-    "href": "governance.html#executive-director",
-    "title": "Governance",
-    "section": "Executive Director",
-    "text": "Executive Director\nJon Harmon is the Executive Director.\nThe Executive Director is a single individual, elected by the Board of Directors. Once someone has been appointed Executive Director, they remain in that role until they choose to retire, or the Board of Directors casts a two-thirds majority vote to remove them.\nThe Executive Director is responsible for coordinating and facilitating communications within the Board of Directors and between the Board of Directors and third parties. Where required and with the consent of the Board of Directors, the Executive Director may act on behalf of the Board of Directors and the Data Science Learning Community.\nThe Executive Director has no additional authority over other members of the Board of Directors; the role is one of coordinator and facilitator. The Executive Director is also expected to ensure that all governance processes are adhered to, and has the deciding vote in the event an action does not receive consensus among the Board of Directors.\nThe Executive Director is bound by the code of conduct."
-  },
-  {
-    "objectID": "governance.html#administrators",
-    "href": "governance.html#administrators",
-    "title": "Governance",
-    "section": "Administrators",
-    "text": "Administrators\nAdministrators help to manage the DSLC Slack and/or GitHub repositories. Common administrator activities may include (in addition to those of a learner, mentor, and/or facilitator):\n\nApproving and merging pull requests;\nDeleting spam messages;\nRemoving learners who violate the code of conduct;\nApproving or denying Slack app requests.\n\nCurrently, all administrators are also members of the Board of Directors, and are added through the same process."
-  },
-  {
-    "objectID": "governance.html#facilitators",
-    "href": "governance.html#facilitators",
-    "title": "Governance",
-    "section": "Facilitators",
-    "text": "Facilitators\nFacilitators are learners who help organize and run DSLC book clubs. Common facilitator activities may include (in addition to those of a learner):\n\nIntroducing new book clubs (and presenting the first chapter);\nEnsuring that someone is signed up to present each week;\nReminding club members about meeting times;\nInforming administrators of any requested changes in the book club schedule;\nHelping to maintain the book club slide repository;\nInforming administrators of any issues that need to be escalated.\n\nFacilitators must have participated in at least one previous book club, and must have lead the discussion at least once. Facilitators are not expected to be experts in the book nor its subject; they are members of the club just like any other learner."
-  },
-  {
-    "objectID": "governance.html#mentors",
-    "href": "governance.html#mentors",
-    "title": "Governance",
-    "section": "Mentors",
-    "text": "Mentors\nMentors are learners who answer questions on the DSLC Slack. Common mentor activities may include (in addition to those of a learner):\n\nAnswering questions on the DSLC Slack;\nHelping tag questions on the DSLC Slack with the DSLC emoji vocabulary;\nHolding semi-official office hours to answer questions in a structured format;\nWelcoming new users to the DSLC Slack.\n\nAnyone can become a mentor: there is no expectation of commitment to the project, no required skillset, and no selection process. The only obligation is to follow the code of conduct. Mentors who continue to engage with the project are added to the private #mentors_chat channel for further tips and discussion, but they are under no obligation to continue to answer questions."
-  },
-  {
-    "objectID": "governance.html#learners",
-    "href": "governance.html#learners",
-    "title": "Governance",
-    "section": "Learners",
-    "text": "Learners\nPeople who use the DSLC Slack, participate in DSLC book clubs, use DSLC packages, and participate in TidyTuesday are the most important members of the community. Without these learners, this project would have no purpose.\nLearners are encouraged to participate in the life of the project and the community as much as possible. Learner contributions help ensure that the project is satisfying users’ needs. Common learner activities include (but are not limited to):\n\nPosting about TidyTuesday or other DSLC projects on social media;\nAsking questions on the DSLC Slack;\nParticipating in DSLC book clubs;\nProviding moral support (a “thank you” goes a long way).\n\nLearners who continue to engage with the project and its community will often find themselves becoming more and more involved. Such learners may then go on to become mentors and/or facilitators, as described below."
-  },
-  {
-    "objectID": "question_answering.html",
-    "href": "question_answering.html",
-    "title": "Get Help",
-    "section": "",
-    "text": "Our community members support one another by asking and answering programming questions in our Slack help channels. We keep those channels friendly and inclusive, and we work to ensure that we answer every question.\nJoin our Slack to ask and answer questions (if the join link says it is expired, please let us know)."
-  },
-  {
-    "objectID": "question_answering.html#available-help-channels",
-    "href": "question_answering.html#available-help-channels",
-    "title": "Get Help",
-    "section": "Available help channels:",
-    "text": "Available help channels:\n\n\n\nR help\n\nR (general questions)\nData import\nDataviz, plotting, etc\nExplore, wrangle\nModel\nProgramming, testing, etc\nRmarkdown, quarto, etc\nShiny\n\n\n\n\nOther topics\n\nJuliaLang (general questions)\nPython (general questions)\nSQL (general questions)\nDevops\nGithub, open source\nStatistics"
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "Unless otherwise stated, all posts shared on the Data Science Learning Community (DSLC) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nDSLC has the right (though not the obligation) to, in DSLC’s sole discretion, (i) refuse or remove any content that, in DSLC’s reasonable opinion, violates any DSLC policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in DSLC’s sole discretion."
-  },
-  {
-    "objectID": "code_of_conduct.html",
-    "href": "code_of_conduct.html",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
-  },
-  {
-    "objectID": "code_of_conduct.html#our-pledge",
-    "href": "code_of_conduct.html#our-pledge",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
-  },
-  {
-    "objectID": "code_of_conduct.html#our-standards",
-    "href": "code_of_conduct.html#our-standards",
-    "title": "Code of Conduct",
-    "section": "Our Standards",
-    "text": "Our Standards\nExamples of behavior that contributes to creating a positive environment include:\n\nUsing welcoming and inclusive language\nBeing respectful of differing viewpoints and experiences\nGracefully accepting constructive criticism\nFocusing on what is best for the community\nShowing empathy towards other community members\n\nExamples of unacceptable behavior by participants include:\n\nThe use of sexualized language or imagery and unwelcome sexual attention or advances\nTrolling, insulting/derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or electronic address, without explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
-  },
-  {
-    "objectID": "code_of_conduct.html#our-responsibilities",
-    "href": "code_of_conduct.html#our-responsibilities",
-    "title": "Code of Conduct",
-    "section": "Our Responsibilities",
-    "text": "Our Responsibilities\nCommunity administrators are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.\nCommunity administrators have the right and responsibility to remove, edit, or reject comments, questions, answers, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful."
-  },
-  {
-    "objectID": "code_of_conduct.html#scope",
-    "href": "code_of_conduct.html#scope",
-    "title": "Code of Conduct",
-    "section": "Scope",
-    "text": "Scope\nThis Code of Conduct applies both within Data Science Learning Community spaces and in public spaces when an individual is representing the community. Examples of representing a community include using an official Data Science Learning Community e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the community may be further defined and clarified by community administrators."
-  },
-  {
-    "objectID": "code_of_conduct.html#enforcement",
-    "href": "code_of_conduct.html#enforcement",
-    "title": "Code of Conduct",
-    "section": "Enforcement",
-    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community administrators at conduct@DSLC.io. The community administrators will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The community administrators are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.\nCommunity administrators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the community’s leadership."
-  },
-  {
-    "objectID": "code_of_conduct.html#attribution",
-    "href": "code_of_conduct.html#attribution",
-    "title": "Code of Conduct",
-    "section": "Attribution",
-    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4"
-  },
-  {
-    "objectID": "playlists.html",
-    "href": "playlists.html",
-    "title": "DSLC Playlists",
-    "section": "",
-    "text": "All of our book club meetings are available on YouTube. Visit our YouTube channel to catch up or follow along!"
-  },
-  {
     "objectID": "support.html",
     "href": "support.html",
     "title": "Support",
@@ -287,31 +273,45 @@
     "text": "The Data Science Learning Commmunity does not currently solicit donations. If you are interested in donating time or money, please contact us."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Our Story",
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy",
     "section": "",
-    "text": "The Data Science Learning Community is a diverse, friendly, and inclusive community of data science learners and practitioners.\nWe launched in August 2017 as the R4DS Online Learning Community, a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of thousands of learners."
+    "text": "This notice describes how the Data Science Learning Community (DSLC for short) collects and uses data about you."
   },
   {
-    "objectID": "about.html#footnotes",
-    "href": "about.html#footnotes",
-    "title": "Our Story",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
+    "objectID": "privacy.html#what-is-the-data-science-learning-community",
+    "href": "privacy.html#what-is-the-data-science-learning-community",
+    "title": "Privacy",
+    "section": "What is the Data Science Learning Community?",
+    "text": "What is the Data Science Learning Community?\nDSLC is a community managed by volunteers.\nThe DSLC Slack is hosted by Slack Technologies. See their privacy policy here."
   },
   {
-    "objectID": "notfound.html",
-    "href": "notfound.html",
-    "title": "Page Not Found",
-    "section": "",
-    "text": "We cannot find that page.\nIf you think there should be a page here, please open an issue on github."
+    "objectID": "privacy.html#how-does-dslc-collect-data-about-me",
+    "href": "privacy.html#how-does-dslc-collect-data-about-me",
+    "title": "Privacy",
+    "section": "How does DSLC collect data about me?",
+    "text": "How does DSLC collect data about me?\nDSLC collects data about you:\n\nwhen you browse dslc.io.\nwhen you create and use an account on our Slack team.\nwhen you post, send private messages, answer a thread, or otherwise participate in the DSLC Slack.\nwhen you participate in an Data Science Learning Community project, such as our mentorship pairing program."
   },
   {
-    "objectID": "qr_codes.html",
-    "href": "qr_codes.html",
-    "title": "QR Codes",
-    "section": "",
-    "text": "Eventually this page will auto-populate with QR codes for each page on the DSLC website.\n\n\n\n\n\n\ncontact.html\n\n\n\n\n\n\n\nprojects.html"
+    "objectID": "privacy.html#what-does-dslc-collect-about-me-and-why",
+    "href": "privacy.html#what-does-dslc-collect-about-me-and-why",
+    "title": "Privacy",
+    "section": "What does DSLC collect about me, and why?",
+    "text": "What does DSLC collect about me, and why?\nWhen you browse dslc.io, we may collect Google Analytics data. We use this data to better understand where our users are coming from.\nWhen you create and use an account on our Slack team, we collect an email address and other optional information.\n\nSlack requires this information for account creation.\nIf we need to talk to you about our Code of Conduct, we may contact you via this email address.\nWe do not intentionally share this email address with anyone, but Slack may make it available.\nYou can erase your personal information from your account at any time.\nSlack stores your account data as long as your account remains open.\n\nWhen you post, send private messages, answer a thread, or otherwise participate in the DSLC Slack, you generate content that may be accessible via Slack applications and the Slack API. DSLC uses this data to improve the experience, and may share posts outside of the DSLC Slack (for example, in a blog post or presentation about the mentoring process). All answers shared on the DSLC Slack are considered to be licensed under the Creative Commons CC0 license; people are free to copy/paste your code into their projects with no impact on the licensing of those projects. This data is retained according to Slack’s data retention policies.\nWhen you participate in an Data Science Learning Community project, we collect any data necessary for that project, such as a github repo url or demographic data for mentorship matching. We will only share any provided data as described in the terms of that particular project. Unless otherwise specified in the specific project, DSLC does not share data collected for such projects.\nDSLC does not sell or share your data with other companies or services. However, as described above, other services used by DSLC may collect your data, specifically Slack Technologies and Google Analytics."
+  },
+  {
+    "objectID": "privacy.html#how-can-i-contact-dslc-about-privacy",
+    "href": "privacy.html#how-can-i-contact-dslc-about-privacy",
+    "title": "Privacy",
+    "section": "How can I contact DSLC about privacy?",
+    "text": "How can I contact DSLC about privacy?\nIf you have any questions about privacy, please contact the Community administrators at privacy@DSLC.io."
+  },
+  {
+    "objectID": "privacy.html#when-did-this-privacy-policy-take-effect",
+    "href": "privacy.html#when-did-this-privacy-policy-take-effect",
+    "title": "Privacy",
+    "section": "When did this privacy policy take effect?",
+    "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
   }
 ]
