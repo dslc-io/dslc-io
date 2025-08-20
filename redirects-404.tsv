@@ -1,5 +1,5 @@
 path	target
-join	https://join.slack.com/t/dslcio/shared_invite/zt-39w9g0o3n-GczOupSMtuVhOfeb5RBXMQ
+join	https://join.slack.com/t/dslcio/shared_invite/zt-3bpem8a69-OYCp7lYkwm86DNhff~9YXw
 mentordash	https://r4dscommunity.shinyapps.io/mentordash
 youtube	https://www.youtube.com/channel/UCCaChdLMTYMxyawR_Qf-kYA
 clubs	https://dslc.io/join
@@ -65,6 +65,8 @@ smltar	https://r4ds.github.io/bookclub-smltar/
 spacestats	https://r4ds.github.io/bookclub-spacestats/
 spatial	https://r4ds.github.io/bookclub-spatial/
 tidytext	https://r4ds.github.io/bookclub-tidytext/
+https://dslc-io.github.io/tidytuesdayR/	https://tidytues.day
+tidytuesdayR	https://dslc-io.github.io/tidytuesdayR/
 tmwr	https://r4ds.github.io/bookclub-tmwr/
 tmwr_es	https://r4ds.github.io/bookclub-tmwr_es/
 torch	https://r4ds.github.io/bookclub-torch/
