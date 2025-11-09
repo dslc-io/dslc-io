@@ -18,8 +18,6 @@ website:
     logo-alt: "Data Science Learning Community"
     title: false
     right:
-      # This will appear when/if there's a bluesky bootstrap icon, fails
-      # silently until then.
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/dslc.io
       - text: "{{< fa brands mastodon >}}"
@@ -29,7 +27,7 @@ website:
       - text: "{{< fa brands youtube >}}"
         href: https://www.youtube.com/@dslcvids
       - text: "{{< fa brands github >}}"
-        href: https://github.com/r4ds
+        href: https://github.com/dslc-io/dslc-io
     left:
       - href: bookclubs.qmd
       - href: question_answering.qmd
@@ -48,7 +46,7 @@ website:
     center:
       This website is licensed under a [Creative Commons Attributions 4.0
       International License](https://creativecommons.org/licenses/by/4.0/).
-      Copyright 2024 the Data Science Learning Community.
+      Copyright 2025 the Data Science Learning Community.
 format:
   html:
     theme: [flatly, custom.scss]
