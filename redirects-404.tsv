@@ -1,5 +1,5 @@
 path	target
-join	https://join.slack.com/t/dslcio/shared_invite/zt-3mbdl5mg4-u8I21_lC1eXzDmLiUZfJAw
+join	https://join.slack.com/t/dslcio/shared_invite/zt-3nmabs600-6nqLbjlPmvFMhN74B2DMyA
 mentordash	https://r4dscommunity.shinyapps.io/mentordash
 youtube	https://www.youtube.com/channel/UCCaChdLMTYMxyawR_Qf-kYA
 clubs	https://dslc.io/bookclubs.html
@@ -21,6 +21,7 @@ comp_genom	https://r4ds.github.io/bookclub-comp_genom/
 datavisr	https://r4ds.github.io/bookclub-datavisr/
 dataviz	https://r4ds.github.io/bookclub-dataviz/
 deepr	https://r4ds.github.io/bookclub-deepr/
+deeppy	https://r4ds.github.io/bookclub-deeppy/
 do4ds	https://r4ds.github.io/bookclub-do4ds/
 dscl	https://r4ds.github.io/bookclub-dscl/
 dsieur	https://r4ds.github.io/bookclub-dsieur/
@@ -71,6 +72,7 @@ tidytuesdayR	https://dslc-io.github.io/tidytuesdayR/
 tmwr	https://r4ds.github.io/bookclub-tmwr/
 tmwr_es	https://r4ds.github.io/bookclub-tmwr_es/
 torch	https://r4ds.github.io/bookclub-torch/
+ttcookbook	https://r4ds.github.io/bookclub-ttcookbook/
 wapir	https://dslc-io.github.io/club-wapir/
 cookies	https://cookies.shinyworks.org/
 cookiesdemo	https://r4dscommunity.shinyapps.io/cookies/
